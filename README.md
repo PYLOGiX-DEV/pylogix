@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Dmroeder author of Pylogix a communication Driver](https://pylogix.com/dmroeder-author-of-pylogix-a-communication-driver/)
 - [Using AI to scale wealth management: Opportunities and Challenges](https://pylogix.com/using-ai-to-scale-wealth-management-opportunities-and-challenges/)
 - [Robotic process automation in banking: use cases, benefits, and challenges](https://pylogix.com/robotic-process-automation-in-banking-use-cases-benefits-and-challenges/)
 - [How it all started? – The History of Python](https://pylogix.com/how-it-all-started-the-history-of-python/)
 - [Top mistakes during MVP development](https://pylogix.com/top-mistakes-during-mvp-development/)
-- [Control and Automate Your Industrial Processes with Compact Logix and Control Logix PLCs from Allen Bradley](https://pylogix.com/control-and-automate-your-industrial-processes-with-compact-logix-and-control-logix-plcs-from-allen-bradley/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
