@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Setup Account Factory for Terraform and enable default VPCs deletion &lpar;with bug fix on source code&rpar;](https://pylogix.com/setup-account-factory-for-terraform-and-enable-default-vpcs-deletion-with-bug-fix-on-source-code/)
+- [My First Hacktoberfest as a Maintainer – Gadgets Ecommerce Project](https://pylogix.com/my-first-hacktoberfest-as-a-maintainer-gadgets-ecommerce-project/)
 - [Securing Generative AI: A 5-Step Checklist for AI Developers](https://pylogix.com/securing-generative-ai-a-5-step-checklist-for-ai-developers/)
 - [Using AI to scale wealth management: Opportunities and Challenges](https://pylogix.com/using-ai-to-scale-wealth-management-opportunities-and-challenges/)
 - [Robotic process automation in banking: use cases, benefits, and challenges](https://pylogix.com/robotic-process-automation-in-banking-use-cases-benefits-and-challenges/)
-- [How it all started? – The History of Python](https://pylogix.com/how-it-all-started-the-history-of-python/)
-- [Top mistakes during MVP development](https://pylogix.com/top-mistakes-during-mvp-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
