@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Looking inside GPT-Synthesizer and the idea of LLM-based code generation](https://pylogix.com/looking-inside-gpt-synthesizer-and-the-idea-of-llm-based-code-generation/)
 - [How to run mongodb using docker-compose in ubuntu](https://pylogix.com/how-to-run-mongodb-using-docker-compose-in-ubuntu/)
 - [12 Personal Go Tricks That Transformed My Productivity](https://pylogix.com/12-personal-go-tricks-that-transformed-my-productivity/)
 - [Setup Account Factory for Terraform and enable default VPCs deletion &lpar;with bug fix on source code&rpar;](https://pylogix.com/setup-account-factory-for-terraform-and-enable-default-vpcs-deletion-with-bug-fix-on-source-code/)
 - [My First Hacktoberfest as a Maintainer – Gadgets Ecommerce Project](https://pylogix.com/my-first-hacktoberfest-as-a-maintainer-gadgets-ecommerce-project/)
-- [Securing Generative AI: A 5-Step Checklist for AI Developers](https://pylogix.com/securing-generative-ai-a-5-step-checklist-for-ai-developers/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
