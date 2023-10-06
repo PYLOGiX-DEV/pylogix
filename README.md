@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Tic-Tac-Toe Game with React](https://pylogix.com/building-a-simple-tic-tac-toe-game-with-react/)
 - [generate-sitemap 1.9.2 Released](https://pylogix.com/generate-sitemap-1-9-2-released/)
 - [Beyond Hacktoberfest: The Pitfalls of Rushing to Open Source](https://pylogix.com/beyond-hacktoberfest-the-pitfalls-of-rushing-to-open-source/)
 - [Looking inside GPT-Synthesizer and the idea of LLM-based code generation](https://pylogix.com/looking-inside-gpt-synthesizer-and-the-idea-of-llm-based-code-generation/)
 - [How to run mongodb using docker-compose in ubuntu](https://pylogix.com/how-to-run-mongodb-using-docker-compose-in-ubuntu/)
-- [12 Personal Go Tricks That Transformed My Productivity](https://pylogix.com/12-personal-go-tricks-that-transformed-my-productivity/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
