@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Who will be Mr. or Mrs. #100? 👀](https://pylogix.com/who-will-be-mr-or-mrs-100-%f0%9f%91%80/)
 - [Chapter 2: SPCT-RIM](https://pylogix.com/chapter-2-spct-rim/)
 - [Job hunting in Canada. &lpar;And tips for recent immigrants&rpar;](https://pylogix.com/job-hunting-in-canada-and-tips-for-recent-immigrants/)
 - [Any product to help us be better at meetings?](https://pylogix.com/any-product-to-help-us-be-better-at-meetings/)
 - [Environment Variables in Environment Variables in NodeJs: The complete Guide](https://pylogix.com/environment-variables-in-environment-variables-in-nodejs-the-complete-guide/)
-- [Building a Simple Tic-Tac-Toe Game with React](https://pylogix.com/building-a-simple-tic-tac-toe-game-with-react/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
