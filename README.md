@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Error handling in Express Server – NodeJS](https://pylogix.com/error-handling-in-express-server-nodejs/)
 - [Rants of a Beginner Techie 4](https://pylogix.com/rants-of-a-beginner-techie-4/)
 - [Hacktoberfest 2023 Update from Maintainer of the user-statistician GitHub Action](https://pylogix.com/hacktoberfest-2023-update-from-maintainer-of-the-user-statistician-github-action/)
 - [Top 10 Pub-Sub interview questions](https://pylogix.com/top-10-pub-sub-interview-questions/)
 - [Who will be Mr. or Mrs. #100? 👀](https://pylogix.com/who-will-be-mr-or-mrs-100-%f0%9f%91%80/)
-- [Chapter 2: SPCT-RIM](https://pylogix.com/chapter-2-spct-rim/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
