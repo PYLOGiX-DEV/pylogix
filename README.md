@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Locally with Signals](https://pylogix.com/thinking-locally-with-signals/)
 - [🧠 An AI / neural network…in vanilla JS! 😱 With no libraries! 🤯](https://pylogix.com/%f0%9f%a7%a0-an-ai-neural-network-in-vanilla-js-%f0%9f%98%b1-with-no-libraries-%f0%9f%a4%af/)
 - [Power of .git ignore](https://pylogix.com/power-of-git-ignore/)
 - [Certificações do GitHub: Descubra essa novidade e já prepare seus estudos!](https://pylogix.com/certificacoes-do-github-descubra-essa-novidade-e-ja-prepare-seus-estudos/)
 - [Error handling in Express Server – NodeJS](https://pylogix.com/error-handling-in-express-server-nodejs/)
-- [Rants of a Beginner Techie 4](https://pylogix.com/rants-of-a-beginner-techie-4/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
