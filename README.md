@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Debouncing in React: A Custom Hook Example 🚀](https://pylogix.com/debouncing-in-react-a-custom-hook-example-%f0%9f%9a%80/)
 - [Types vs Interfaces in TypeScript: Making the Right Choice](https://pylogix.com/types-vs-interfaces-in-typescript-making-the-right-choice/)
 - [Suspense your federated component with caution](https://pylogix.com/suspense-your-federated-component-with-caution/)
 - [Thinking Locally with Signals](https://pylogix.com/thinking-locally-with-signals/)
 - [🧠 An AI / neural network…in vanilla JS! 😱 With no libraries! 🤯](https://pylogix.com/%f0%9f%a7%a0-an-ai-neural-network-in-vanilla-js-%f0%9f%98%b1-with-no-libraries-%f0%9f%a4%af/)
-- [Power of .git ignore](https://pylogix.com/power-of-git-ignore/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
