@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Reference: CSS Units](https://pylogix.com/reference-css-units/)
 - [Demystifying useLocation in ReactJS: A Beginner’s Guide to Navigation](https://pylogix.com/demystifying-uselocation-in-reactjs-a-beginners-guide-to-navigation/)
 - [Weekly Roundup &lpar;Oct 9&rpar;: 🔥Hot Topics🔥 in #workplace, #sharepoint, and #powerplatform](https://pylogix.com/weekly-roundup-oct-9-%f0%9f%94%a5hot-topics%f0%9f%94%a5-in-workplace-sharepoint-and-powerplatform/)
 - [Debouncing in React: A Custom Hook Example 🚀](https://pylogix.com/debouncing-in-react-a-custom-hook-example-%f0%9f%9a%80/)
 - [Types vs Interfaces in TypeScript: Making the Right Choice](https://pylogix.com/types-vs-interfaces-in-typescript-making-the-right-choice/)
-- [Suspense your federated component with caution](https://pylogix.com/suspense-your-federated-component-with-caution/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
