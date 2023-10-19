@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Best Figma Plugins to Enhance Your Design Workflow in 2023](https://pylogix.com/the-best-figma-plugins-to-enhance-your-design-workflow-in-2023/)
 - [Getting Started with Flask, a Python Microframework](https://pylogix.com/getting-started-with-flask-a-python-microframework/)
 - [Quick Tip: Creating Polymorphic Components in TypeScript](https://pylogix.com/quick-tip-creating-polymorphic-components-in-typescript/)
 - [Node.js vs Django: Which is Better for Web Development in 2023?](https://pylogix.com/node-js-vs-django-which-is-better-for-web-development-in-2023/)
 - [Build Your First JavaScript ChatGPT Plugin](https://pylogix.com/build-your-first-javascript-chatgpt-plugin/)
-- [Programming Cheat Sheets for $2. Interested? Check it Out.](https://pylogix.com/programming-cheat-sheets-for-2-interested-check-it-out/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
