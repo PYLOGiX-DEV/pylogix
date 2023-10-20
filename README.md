@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Best Free Online Image Editors](https://pylogix.com/the-best-free-online-image-editors/)
 - [How to Remove a Background in Photoshop: 7 Quick &amp; Easy Methods](https://pylogix.com/how-to-remove-a-background-in-photoshop-7-quick-easy-methods/)
 - [Quick Tip: Decorators in TypeScript](https://pylogix.com/quick-tip-decorators-in-typescript/)
 - [The Best Figma Plugins to Enhance Your Design Workflow in 2023](https://pylogix.com/the-best-figma-plugins-to-enhance-your-design-workflow-in-2023/)
 - [Getting Started with Flask, a Python Microframework](https://pylogix.com/getting-started-with-flask-a-python-microframework/)
-- [Quick Tip: Creating Polymorphic Components in TypeScript](https://pylogix.com/quick-tip-creating-polymorphic-components-in-typescript/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
