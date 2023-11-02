@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to the Bun JavaScript Runtime](https://pylogix.com/an-introduction-to-the-bun-javascript-runtime/)
+- [Build a Simple Beginner App with Node, Bootstrap and MongoDB](https://pylogix.com/build-a-simple-beginner-app-with-node-bootstrap-and-mongodb/)
+- [20+ Tools for Node.js Development in 2023](https://pylogix.com/20-tools-for-node-js-development-in-2023/)
+- [What is Functional Testing? Definition, Key Concepts, &amp; Types](https://pylogix.com/what-is-functional-testing-definition-key-concepts-types/)
 - [The Best Free Online Image Editors](https://pylogix.com/the-best-free-online-image-editors/)
-- [How to Remove a Background in Photoshop: 7 Quick &amp; Easy Methods](https://pylogix.com/how-to-remove-a-background-in-photoshop-7-quick-easy-methods/)
-- [Quick Tip: Decorators in TypeScript](https://pylogix.com/quick-tip-decorators-in-typescript/)
-- [The Best Figma Plugins to Enhance Your Design Workflow in 2023](https://pylogix.com/the-best-figma-plugins-to-enhance-your-design-workflow-in-2023/)
-- [Getting Started with Flask, a Python Microframework](https://pylogix.com/getting-started-with-flask-a-python-microframework/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
