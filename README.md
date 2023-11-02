@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to the Bun JavaScript Runtime](https://pylogix.com/an-introduction-to-the-bun-javascript-runtime/)
-- [Build a Simple Beginner App with Node, Bootstrap and MongoDB](https://pylogix.com/build-a-simple-beginner-app-with-node-bootstrap-and-mongodb/)
-- [20+ Tools for Node.js Development in 2023](https://pylogix.com/20-tools-for-node-js-development-in-2023/)
-- [What is Functional Testing? Definition, Key Concepts, &amp; Types](https://pylogix.com/what-is-functional-testing-definition-key-concepts-types/)
-- [The Best Free Online Image Editors](https://pylogix.com/the-best-free-online-image-editors/)
+- [How to Build a Simple Spellchecker with ChatGPT](https://pylogix.com/how-to-build-a-simple-spellchecker-with-chatgpt/)
+- [Exploring the Top Lightweight Alternatives to React in 2023](https://pylogix.com/exploring-the-top-lightweight-alternatives-to-react-in-2023/)
+- [Build Your Own ChatGPT Clone with React and the OpenAI API](https://pylogix.com/build-your-own-chatgpt-clone-with-react-and-the-openai-api/)
+- [A Comprehensive Guide to Django Caching](https://pylogix.com/a-comprehensive-guide-to-django-caching/)
+- [CSS Viewport Units: vh, vw, vmin, and vmax](https://pylogix.com/css-viewport-units-vh-vw-vmin-and-vmax/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
