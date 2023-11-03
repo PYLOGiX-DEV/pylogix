@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying JavaScript Operators: What Does That Symbol Mean?](https://pylogix.com/demystifying-javascript-operators-what-does-that-symbol-mean/)
-- [Node.js vs .NET Core: What to Choose in 2023?](https://pylogix.com/node-js-vs-net-core-what-to-choose-in-2023/)
-- [An Introduction to Data Encoding and Decoding in Data Science](https://pylogix.com/an-introduction-to-data-encoding-and-decoding-in-data-science/)
-- [10 of the Best Programming Fonts](https://pylogix.com/10-of-the-best-programming-fonts/)
-- [How to Use CSS object-fit and object-position](https://pylogix.com/how-to-use-css-object-fit-and-object-position/)
+- [A Guide to Optimizing JavaScript Files](https://pylogix.com/a-guide-to-optimizing-javascript-files/)
+- [How to Use CSS aspect-ratio](https://pylogix.com/how-to-use-css-aspect-ratio/)
+- [Extending the Properties of an HTML Element in TypeScript](https://pylogix.com/extending-the-properties-of-an-html-element-in-typescript/)
+- [Understanding URL Routing in Flask](https://pylogix.com/understanding-url-routing-in-flask/)
+- [Create a Chatbot Trained on Your Own Data via the OpenAI API](https://pylogix.com/create-a-chatbot-trained-on-your-own-data-via-the-openai-api/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
