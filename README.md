@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Simple Spellchecker with ChatGPT](https://pylogix.com/how-to-build-a-simple-spellchecker-with-chatgpt/)
-- [Exploring the Top Lightweight Alternatives to React in 2023](https://pylogix.com/exploring-the-top-lightweight-alternatives-to-react-in-2023/)
-- [Build Your Own ChatGPT Clone with React and the OpenAI API](https://pylogix.com/build-your-own-chatgpt-clone-with-react-and-the-openai-api/)
-- [A Comprehensive Guide to Django Caching](https://pylogix.com/a-comprehensive-guide-to-django-caching/)
-- [CSS Viewport Units: vh, vw, vmin, and vmax](https://pylogix.com/css-viewport-units-vh-vw-vmin-and-vmax/)
+- [How to Use the CSS Grid repeat&lpar;&rpar; Function](https://pylogix.com/how-to-use-the-css-grid-repeat-function/)
+- [20 Simple Ways to Style the HTML details Element](https://pylogix.com/20-simple-ways-to-style-the-html-details-element/)
+- [Delay, Sleep, Pause &amp; Wait in JavaScript](https://pylogix.com/delay-sleep-pause-wait-in-javascript/)
+- [Node.js Environment Variables: How to Set Them Properly](https://pylogix.com/node-js-environment-variables-how-to-set-them-properly/)
+- [Top 6 AI Coding Assistants in 2023](https://pylogix.com/top-6-ai-coding-assistants-in-2023/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
