@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to htmx, the HTML-focused Dynamic UI Library](https://pylogix.com/an-introduction-to-htmx-the-html-focused-dynamic-ui-library/)
+- [Best Material UI Themes for Stunning Web Applications](https://pylogix.com/best-material-ui-themes-for-stunning-web-applications/)
+- [Build a GraphQL Gateway: Combine, Stitch or Merge any Datasource](https://pylogix.com/build-a-graphql-gateway-combine-stitch-or-merge-any-datasource/)
 - [Installing Multiple Versions of Node.js Using nvm](https://pylogix.com/installing-multiple-versions-of-node-js-using-nvm/)
 - [An Introduction to LangChain: AI-Powered Language Modeling](https://pylogix.com/an-introduction-to-langchain-ai-powered-language-modeling/)
-- [WooCommerce vs Shopify: Which Is the Better Choice for You?](https://pylogix.com/woocommerce-vs-shopify-which-is-the-better-choice-for-you/)
-- [Working With CSV Files Using Python, with Examples](https://pylogix.com/working-with-csv-files-using-python-with-examples/)
-- [.NET Blazor Overview and Upcoming .NET 8 Changes](https://pylogix.com/net-blazor-overview-and-upcoming-net-8-changes/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
