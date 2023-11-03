@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Decorators: An In-depth Guide](https://pylogix.com/javascript-decorators-an-in-depth-guide/)
 - [Which Backend Technology to Choose in 2023: Node vs Python?](https://pylogix.com/which-backend-technology-to-choose-in-2023-node-vs-python/)
 - [How to Create a CSS Typewriter Effect for Your Website](https://pylogix.com/how-to-create-a-css-typewriter-effect-for-your-website/)
 - [6 Must-have Ecommerce Design Elements](https://pylogix.com/6-must-have-ecommerce-design-elements/)
 - [Introducing UPDF, the Delightful, Fast, Standout AI PDF Tool](https://pylogix.com/introducing-updf-the-delightful-fast-standout-ai-pdf-tool/)
-- [Open Source Trends to Look for In 2024](https://pylogix.com/open-source-trends-to-look-for-in-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
