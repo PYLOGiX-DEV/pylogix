@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [An Introduction to the esbuild Bundler](https://pylogix.com/an-introduction-to-the-esbuild-bundler/)
-- [How to Apply CSS3 Transforms to Background Images](https://pylogix.com/how-to-apply-css3-transforms-to-background-images/)
-- [Fetching Data from an HTTP API with Python](https://pylogix.com/fetching-data-from-an-http-api-with-python/)
-- [How to Use CSS background-size and background-position](https://pylogix.com/how-to-use-css-background-size-and-background-position/)
-- [Crafting Targeted Email Campaigns with Mailchimp and Drupal](https://pylogix.com/crafting-targeted-email-campaigns-with-mailchimp-and-drupal/)
+- [Demystifying JavaScript Operators: What Does That Symbol Mean?](https://pylogix.com/demystifying-javascript-operators-what-does-that-symbol-mean/)
+- [Node.js vs .NET Core: What to Choose in 2023?](https://pylogix.com/node-js-vs-net-core-what-to-choose-in-2023/)
+- [An Introduction to Data Encoding and Decoding in Data Science](https://pylogix.com/an-introduction-to-data-encoding-and-decoding-in-data-science/)
+- [10 of the Best Programming Fonts](https://pylogix.com/10-of-the-best-programming-fonts/)
+- [How to Use CSS object-fit and object-position](https://pylogix.com/how-to-use-css-object-fit-and-object-position/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
