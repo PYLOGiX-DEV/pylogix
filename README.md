@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [LlamaIndex vs LangChain: Tools for Building LLM-powered Apps](https://pylogix.com/llamaindex-vs-langchain-tools-for-building-llm-powered-apps/)
+- [How to Center a Div Using CSS Grid](https://pylogix.com/how-to-center-a-div-using-css-grid/)
 - [An Introduction to Native CSS Nesting](https://pylogix.com/an-introduction-to-native-css-nesting/)
 - [How to Use the CSS gap Property](https://pylogix.com/how-to-use-the-css-gap-property/)
 - [Designing for All: The Basic Principles of Web Accessibility](https://pylogix.com/designing-for-all-the-basic-principles-of-web-accessibility/)
-- [Amadeus Cloud Migration on Ampere Altra Instances](https://pylogix.com/amadeus-cloud-migration-on-ampere-altra-instances/)
-- [How to Implement Pagination with HTML, CSS and JavaScript](https://pylogix.com/how-to-implement-pagination-with-html-css-and-javascript/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
