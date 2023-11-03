@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [How to Use the CSS Grid repeat&lpar;&rpar; Function](https://pylogix.com/how-to-use-the-css-grid-repeat-function/)
-- [20 Simple Ways to Style the HTML details Element](https://pylogix.com/20-simple-ways-to-style-the-html-details-element/)
-- [Delay, Sleep, Pause &amp; Wait in JavaScript](https://pylogix.com/delay-sleep-pause-wait-in-javascript/)
-- [Node.js Environment Variables: How to Set Them Properly](https://pylogix.com/node-js-environment-variables-how-to-set-them-properly/)
-- [Top 6 AI Coding Assistants in 2023](https://pylogix.com/top-6-ai-coding-assistants-in-2023/)
+- [An Introduction to the esbuild Bundler](https://pylogix.com/an-introduction-to-the-esbuild-bundler/)
+- [How to Apply CSS3 Transforms to Background Images](https://pylogix.com/how-to-apply-css3-transforms-to-background-images/)
+- [Fetching Data from an HTTP API with Python](https://pylogix.com/fetching-data-from-an-http-api-with-python/)
+- [How to Use CSS background-size and background-position](https://pylogix.com/how-to-use-css-background-size-and-background-position/)
+- [Crafting Targeted Email Campaigns with Mailchimp and Drupal](https://pylogix.com/crafting-targeted-email-campaigns-with-mailchimp-and-drupal/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
