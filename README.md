@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Amadeus Cloud Migration on Ampere Altra Instances](https://pylogix.com/amadeus-cloud-migration-on-ampere-altra-instances/)
+- [How to Implement Pagination with HTML, CSS and JavaScript](https://pylogix.com/how-to-implement-pagination-with-html-css-and-javascript/)
 - [An Introduction to the Laravel PHP Framework](https://pylogix.com/an-introduction-to-the-laravel-php-framework/)
 - [Data Preprocessing: Exploring the Keys to Data Preparation](https://pylogix.com/data-preprocessing-exploring-the-keys-to-data-preparation/)
 - [10 Zsh Tips &amp; Tricks: Configuration, Customization &amp; Usage](https://pylogix.com/10-zsh-tips-tricks-configuration-customization-usage/)
-- [An Introduction to htmx, the HTML-focused Dynamic UI Library](https://pylogix.com/an-introduction-to-htmx-the-html-focused-dynamic-ui-library/)
-- [Best Material UI Themes for Stunning Web Applications](https://pylogix.com/best-material-ui-themes-for-stunning-web-applications/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
