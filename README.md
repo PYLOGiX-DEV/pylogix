@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Optimizing JavaScript Files](https://pylogix.com/a-guide-to-optimizing-javascript-files/)
-- [How to Use CSS aspect-ratio](https://pylogix.com/how-to-use-css-aspect-ratio/)
-- [Extending the Properties of an HTML Element in TypeScript](https://pylogix.com/extending-the-properties-of-an-html-element-in-typescript/)
-- [Understanding URL Routing in Flask](https://pylogix.com/understanding-url-routing-in-flask/)
-- [Create a Chatbot Trained on Your Own Data via the OpenAI API](https://pylogix.com/create-a-chatbot-trained-on-your-own-data-via-the-openai-api/)
+- [An Overview of CSS Sizing Units](https://pylogix.com/an-overview-of-css-sizing-units/)
+- [A Complete Guide to LangChain in JavaScript](https://pylogix.com/a-complete-guide-to-langchain-in-javascript/)
+- [Top React Testing Libraries in 2023: A Comprehensive Review](https://pylogix.com/top-react-testing-libraries-in-2023-a-comprehensive-review/)
+- [Quick Tip: Install Node.js on Ubuntu](https://pylogix.com/quick-tip-install-node-js-on-ubuntu/)
+- [Quick Tip: Controlling Windows with Python](https://pylogix.com/quick-tip-controlling-windows-with-python/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
