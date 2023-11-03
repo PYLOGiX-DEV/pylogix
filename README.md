@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [An Introduction to the Laravel PHP Framework](https://pylogix.com/an-introduction-to-the-laravel-php-framework/)
+- [Data Preprocessing: Exploring the Keys to Data Preparation](https://pylogix.com/data-preprocessing-exploring-the-keys-to-data-preparation/)
+- [10 Zsh Tips &amp; Tricks: Configuration, Customization &amp; Usage](https://pylogix.com/10-zsh-tips-tricks-configuration-customization-usage/)
 - [An Introduction to htmx, the HTML-focused Dynamic UI Library](https://pylogix.com/an-introduction-to-htmx-the-html-focused-dynamic-ui-library/)
 - [Best Material UI Themes for Stunning Web Applications](https://pylogix.com/best-material-ui-themes-for-stunning-web-applications/)
-- [Build a GraphQL Gateway: Combine, Stitch or Merge any Datasource](https://pylogix.com/build-a-graphql-gateway-combine-stitch-or-merge-any-datasource/)
-- [Installing Multiple Versions of Node.js Using nvm](https://pylogix.com/installing-multiple-versions-of-node-js-using-nvm/)
-- [An Introduction to LangChain: AI-Powered Language Modeling](https://pylogix.com/an-introduction-to-langchain-ai-powered-language-modeling/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
