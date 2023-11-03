@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [An Overview of CSS Sizing Units](https://pylogix.com/an-overview-of-css-sizing-units/)
-- [A Complete Guide to LangChain in JavaScript](https://pylogix.com/a-complete-guide-to-langchain-in-javascript/)
-- [Top React Testing Libraries in 2023: A Comprehensive Review](https://pylogix.com/top-react-testing-libraries-in-2023-a-comprehensive-review/)
-- [Quick Tip: Install Node.js on Ubuntu](https://pylogix.com/quick-tip-install-node-js-on-ubuntu/)
-- [Quick Tip: Controlling Windows with Python](https://pylogix.com/quick-tip-controlling-windows-with-python/)
+- [Installing Multiple Versions of Node.js Using nvm](https://pylogix.com/installing-multiple-versions-of-node-js-using-nvm/)
+- [An Introduction to LangChain: AI-Powered Language Modeling](https://pylogix.com/an-introduction-to-langchain-ai-powered-language-modeling/)
+- [WooCommerce vs Shopify: Which Is the Better Choice for You?](https://pylogix.com/woocommerce-vs-shopify-which-is-the-better-choice-for-you/)
+- [Working With CSV Files Using Python, with Examples](https://pylogix.com/working-with-csv-files-using-python-with-examples/)
+- [.NET Blazor Overview and Upcoming .NET 8 Changes](https://pylogix.com/net-blazor-overview-and-upcoming-net-8-changes/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
