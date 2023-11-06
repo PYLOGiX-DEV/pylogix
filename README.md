@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Understanding React Error Boundary](https://pylogix.com/understanding-react-error-boundary/)
 - [Understanding React Error Boundary — SitePoint](https://pylogix.com/understanding-react-error-boundary-sitepoint/)
 - [Quick Tip: How to Install Node.js on Debian](https://pylogix.com/quick-tip-how-to-install-node-js-on-debian/)
 - [Pros, Cons, and Key Differences](https://pylogix.com/pros-cons-and-key-differences/)
 - [How to Install Node.js on Debian — SitePoint](https://pylogix.com/how-to-install-node-js-on-debian-sitepoint/)
-- [A Beginner’s Guide to CSS Grid Layout](https://pylogix.com/a-beginners-guide-to-css-grid-layout/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
