@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [React Router v6: A Beginner’s Guide](https://pylogix.com/react-router-v6-a-beginners-guide/)
 - [A Beginner’s Guide — SitePoint](https://pylogix.com/a-beginners-guide-sitepoint/)
 - [React vs React Native: Pros, Cons, and Key Differences](https://pylogix.com/react-vs-react-native-pros-cons-and-key-differences/)
 - [Understanding React Error Boundary](https://pylogix.com/understanding-react-error-boundary/)
 - [Understanding React Error Boundary — SitePoint](https://pylogix.com/understanding-react-error-boundary-sitepoint/)
-- [Quick Tip: How to Install Node.js on Debian](https://pylogix.com/quick-tip-how-to-install-node-js-on-debian/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
