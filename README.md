@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Scale Your React App with Storybook and Chromatic](https://pylogix.com/scale-your-react-app-with-storybook-and-chromatic/)
 - [Migrate to Ampere on OCI with Heterogeneous Kubernetes Clusters](https://pylogix.com/migrate-to-ampere-on-oci-with-heterogeneous-kubernetes-clusters/)
 - [10 Tips for Implementing Webflow On-page SEO](https://pylogix.com/10-tips-for-implementing-webflow-on-page-seo/)
 - [Scale Your React App with Storybook and Chromatic — SitePoint](https://pylogix.com/scale-your-react-app-with-storybook-and-chromatic-sitepoint/)
 - [10 Tips for Implementing Webflow On-page SEO — SitePoint](https://pylogix.com/10-tips-for-implementing-webflow-on-page-seo-sitepoint/)
-- [How to use the File System in Node.js](https://pylogix.com/how-to-use-the-file-system-in-node-js/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
