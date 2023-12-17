@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Using Nodemon and Watch in Node.js for Live Restarts](https://pylogix.com/using-nodemon-and-watch-in-node-js-for-live-restarts/)
 - [Introducing STRICH: Barcode Scanning for Web Apps](https://pylogix.com/introducing-strich-barcode-scanning-for-web-apps/)
 - [6 Techniques for Conditional Rendering in React, with Examples](https://pylogix.com/6-techniques-for-conditional-rendering-in-react-with-examples/)
 - [Barcode Scanning for Web Apps — SitePoint](https://pylogix.com/barcode-scanning-for-web-apps-sitepoint/)
 - [Quick Tip: Understanding React Tooltip](https://pylogix.com/quick-tip-understanding-react-tooltip/)
-- [Using Nodemon and Watch in Node.js for Live Restarts — SitePoint](https://pylogix.com/using-nodemon-and-watch-in-node-js-for-live-restarts-sitepoint/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
