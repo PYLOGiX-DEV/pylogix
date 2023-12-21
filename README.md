@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Turn Your Vue App into an Offline-ready Progressive Web App](https://pylogix.com/turn-your-vue-app-into-an-offline-ready-progressive-web-app/)
 - [Theming with Tailwind and CSS Variables](https://pylogix.com/theming-with-tailwind-and-css-variables/)
 - [How to Analyze Large Text Datasets with LangChain and Python](https://pylogix.com/how-to-analyze-large-text-datasets-with-langchain-and-python/)
 - [Using Nodemon and Watch in Node.js for Live Restarts](https://pylogix.com/using-nodemon-and-watch-in-node-js-for-live-restarts/)
 - [Introducing STRICH: Barcode Scanning for Web Apps](https://pylogix.com/introducing-strich-barcode-scanning-for-web-apps/)
-- [6 Techniques for Conditional Rendering in React, with Examples](https://pylogix.com/6-techniques-for-conditional-rendering-in-react-with-examples/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
