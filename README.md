@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Brighten Up Your Astro Site with KwesForms and Rive](https://pylogix.com/brighten-up-your-astro-site-with-kwesforms-and-rive/)
 - [Which Programming Language Should I Learn First in 2024? — SitePoint](https://pylogix.com/which-programming-language-should-i-learn-first-in-2024-sitepoint/)
 - [Brighten Up Your Astro Site with KwesForms and Rive — SitePoint](https://pylogix.com/brighten-up-your-astro-site-with-kwesforms-and-rive-sitepoint/)
 - [Managing PHP Versions with Laravel Herd](https://pylogix.com/managing-php-versions-with-laravel-herd/)
 - [Top 9 Best WordPress AI Plugins of 2024](https://pylogix.com/top-9-best-wordpress-ai-plugins-of-2024/)
-- [Managing PHP Versions with Laravel Herd — Pylogix](https://pylogix.com/managing-php-versions-with-laravel-herd-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
