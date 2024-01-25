@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [View Transitions in Astro — SitePoint](https://pylogix.com/view-transitions-in-astro-sitepoint/)
 - [Getting Started with Content Collections in Astro — SitePoint](https://pylogix.com/getting-started-with-content-collections-in-astro-sitepoint/)
 - [What Does the Java Virtual Machine Do All Day? — SitePoint](https://pylogix.com/what-does-the-java-virtual-machine-do-all-day-sitepoint/)
 - [Blazor Render Modes Explained — SitePoint](https://pylogix.com/blazor-render-modes-explained-sitepoint/)
 - [Layouts in Astro — SitePoint](https://pylogix.com/layouts-in-astro-sitepoint/)
-- [Mastering Node CSV](https://pylogix.com/mastering-node-csv/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
