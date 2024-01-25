@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [View Transitions in Astro — SitePoint](https://pylogix.com/view-transitions-in-astro-sitepoint/)
-- [Getting Started with Content Collections in Astro — SitePoint](https://pylogix.com/getting-started-with-content-collections-in-astro-sitepoint/)
-- [What Does the Java Virtual Machine Do All Day? — SitePoint](https://pylogix.com/what-does-the-java-virtual-machine-do-all-day-sitepoint/)
-- [Blazor Render Modes Explained — SitePoint](https://pylogix.com/blazor-render-modes-explained-sitepoint/)
-- [Layouts in Astro — SitePoint](https://pylogix.com/layouts-in-astro-sitepoint/)
+- [The ultimate guide to hiring qualified AI engineers](https://pylogix.com/the-ultimate-guide-to-hiring-qualified-ai-engineers/)
+- [Hot takes in IO: How machine learning is zapping life into work training](https://pylogix.com/hot-takes-in-io-how-machine-learning-is-zapping-life-into-work-training/)
+- [Key Python interview questions &lpar;and answers&rpar; from basic to senior level](https://pylogix.com/key-python-interview-questions-and-answers-from-basic-to-senior-level/)
+- [Key C++ practice problems &lpar;and solutions&rpar; from beginner to senior level](https://pylogix.com/key-c-practice-problems-and-solutions-from-beginner-to-senior-level/)
+- [Skills top tech companies are hiring for in 2024](https://pylogix.com/skills-top-tech-companies-are-hiring-for-in-2024/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
