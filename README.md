@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Exploring the biggest recruitment challenges in technical hiring](https://pylogix.com/exploring-the-biggest-recruitment-challenges-in-technical-hiring/)
 - [How to avoid unfair hiring practices in technical recruitment](https://pylogix.com/how-to-avoid-unfair-hiring-practices-in-technical-recruitment/)
 - [The ultimate guide to hiring qualified AI engineers](https://pylogix.com/the-ultimate-guide-to-hiring-qualified-ai-engineers/)
 - [Hot takes in IO: How machine learning is zapping life into work training](https://pylogix.com/hot-takes-in-io-how-machine-learning-is-zapping-life-into-work-training/)
 - [Key Python interview questions &lpar;and answers&rpar; from basic to senior level](https://pylogix.com/key-python-interview-questions-and-answers-from-basic-to-senior-level/)
-- [Key C++ practice problems &lpar;and solutions&rpar; from beginner to senior level](https://pylogix.com/key-c-practice-problems-and-solutions-from-beginner-to-senior-level/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
