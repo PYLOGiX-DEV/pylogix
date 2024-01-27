@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Mastering live coding interviews: A guide for interviewers](https://pylogix.com/mastering-live-coding-interviews-a-guide-for-interviewers/)
 - [The ultimate guide to AI recruitment tools](https://pylogix.com/the-ultimate-guide-to-ai-recruitment-tools/)
 - [Hot takes in IO: 3 potential pitfalls of NYC Local Law 144](https://pylogix.com/hot-takes-in-io-3-potential-pitfalls-of-nyc-local-law-144/)
 - [Why React Icons May Be the Only Icon Library You Need — SitePoint](https://pylogix.com/why-react-icons-may-be-the-only-icon-library-you-need-sitepoint/)
 - [Exploring the biggest recruitment challenges in technical hiring](https://pylogix.com/exploring-the-biggest-recruitment-challenges-in-technical-hiring/)
-- [How to avoid unfair hiring practices in technical recruitment](https://pylogix.com/how-to-avoid-unfair-hiring-practices-in-technical-recruitment/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
