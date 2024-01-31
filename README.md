@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Signals in Django — Pylogix](https://pylogix.com/understanding-signals-in-django-pylogix/)
 - [How to conduct a technical interview: Essential strategies and tips](https://pylogix.com/how-to-conduct-a-technical-interview-essential-strategies-and-tips/)
 - [Hot takes in IO: When reliability can be too much of a good thing](https://pylogix.com/hot-takes-in-io-when-reliability-can-be-too-much-of-a-good-thing/)
 - [Mastering live coding interviews: A guide for interviewers](https://pylogix.com/mastering-live-coding-interviews-a-guide-for-interviewers/)
 - [The ultimate guide to AI recruitment tools](https://pylogix.com/the-ultimate-guide-to-ai-recruitment-tools/)
-- [Hot takes in IO: 3 potential pitfalls of NYC Local Law 144](https://pylogix.com/hot-takes-in-io-3-potential-pitfalls-of-nyc-local-law-144/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
