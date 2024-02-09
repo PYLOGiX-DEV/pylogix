@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing: Pylogix Learn – Pylogix](https://pylogix.com/introducing-pylogix-learn-pylogix/)
 - [Building Interactive Data Visualizations with D3.js and React — Pylogix](https://pylogix.com/building-interactive-data-visualizations-with-d3-js-and-react-pylogix/)
 - [Which One Should You Learn First? — Pylogix](https://pylogix.com/which-one-should-you-learn-first-pylogix/)
 - [13 Best Books, Courses and Communities for Learning React — Pylogix](https://pylogix.com/13-best-books-courses-and-communities-for-learning-react-pylogix/)
 - [AI-Powered Search Engine With Milvus Vector Database on Vultr](https://pylogix.com/ai-powered-search-engine-with-milvus-vector-database-on-vultr/)
-- [Implementing User Authentication in React Apps with Appwrite — Pylogix](https://pylogix.com/implementing-user-authentication-in-react-apps-with-appwrite-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
