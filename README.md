@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Control Lazy Load, Infinite Scroll and Animations in React — Pylogix](https://pylogix.com/control-lazy-load-infinite-scroll-and-animations-in-react-pylogix/)
 - [Building a Research Assistant Tool with AI and JavaScript — Pylogix](https://pylogix.com/building-a-research-assistant-tool-with-ai-and-javascript-pylogix/)
 - [Understanding React useEffect — Pylogix](https://pylogix.com/understanding-react-useeffect-pylogix/)
 - [Web Design Trends to Watch in 2024 — Pylogix](https://pylogix.com/web-design-trends-to-watch-in-2024-pylogix/)
 - [5 jQuery.each&lpar;&rpar; Function Examples — Pylogix](https://pylogix.com/5-jquery-each-function-examples-pylogix/)
-- [Building a 3D Card Flip Animation with CSS Houdini — Pylogix](https://pylogix.com/building-a-3d-card-flip-animation-with-css-houdini-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
