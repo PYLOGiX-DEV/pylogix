@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Content Collections in Astro — Pylogix](https://pylogix.com/getting-started-with-content-collections-in-astro-pylogix/)
 - [Five Simple Ways to Boost a WooCommerce Site’s Performance — Pylogix](https://pylogix.com/five-simple-ways-to-boost-a-woocommerce-sites-performance-pylogix/)
 - [View Transitions in Astro — Pylogix](https://pylogix.com/view-transitions-in-astro-pylogix/)
 - [Elevate Your Online Store with Top WooCommerce Plugins — Pylogix](https://pylogix.com/elevate-your-online-store-with-top-woocommerce-plugins-pylogix/)
 - [Top 5 SEO Tools of 2024 — Pylogix](https://pylogix.com/top-5-seo-tools-of-2024-pylogix/)
-- [How to Build a Chat Interface using Gradio &amp; Vultr Cloud GPU — Pylogix](https://pylogix.com/how-to-build-a-chat-interface-using-gradio-vultr-cloud-gpu-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
