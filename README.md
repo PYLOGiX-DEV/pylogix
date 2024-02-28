@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Use Server-sent Events in Node.js — Pylogix](https://pylogix.com/how-to-use-server-sent-events-in-node-js-pylogix/)
 - [How to become a senior software engineer: Skills required to move from junior to senior level](https://pylogix.com/how-to-become-a-senior-software-engineer-skills-required-to-move-from-junior-to-senior-level/)
 - [Getting Started with Content Collections in Astro — Pylogix](https://pylogix.com/getting-started-with-content-collections-in-astro-pylogix/)
 - [Five Simple Ways to Boost a WooCommerce Site’s Performance — Pylogix](https://pylogix.com/five-simple-ways-to-boost-a-woocommerce-sites-performance-pylogix/)
 - [View Transitions in Astro — Pylogix](https://pylogix.com/view-transitions-in-astro-pylogix/)
-- [Elevate Your Online Store with Top WooCommerce Plugins — Pylogix](https://pylogix.com/elevate-your-online-store-with-top-woocommerce-plugins-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
