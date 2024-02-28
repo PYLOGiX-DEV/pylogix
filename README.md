@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What Does the Java Virtual Machine Do All Day? — Pylogix](https://pylogix.com/what-does-the-java-virtual-machine-do-all-day-pylogix/)
 - [How to Use Server-sent Events in Node.js — Pylogix](https://pylogix.com/how-to-use-server-sent-events-in-node-js-pylogix/)
 - [How to become a senior software engineer: Skills required to move from junior to senior level](https://pylogix.com/how-to-become-a-senior-software-engineer-skills-required-to-move-from-junior-to-senior-level/)
 - [Getting Started with Content Collections in Astro — Pylogix](https://pylogix.com/getting-started-with-content-collections-in-astro-pylogix/)
 - [Five Simple Ways to Boost a WooCommerce Site’s Performance — Pylogix](https://pylogix.com/five-simple-ways-to-boost-a-woocommerce-sites-performance-pylogix/)
-- [View Transitions in Astro — Pylogix](https://pylogix.com/view-transitions-in-astro-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
