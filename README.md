@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Enhanced Internationalization &lpar;i18n&rpar; in Next.js 14 — Pylogix](https://pylogix.com/enhanced-internationalization-i18n-in-next-js-14-pylogix/)
 - [Layouts in Astro — Pylogix](https://pylogix.com/layouts-in-astro-pylogix/)
 - [What Does the Java Virtual Machine Do All Day? — Pylogix](https://pylogix.com/what-does-the-java-virtual-machine-do-all-day-pylogix/)
 - [How to Use Server-sent Events in Node.js — Pylogix](https://pylogix.com/how-to-use-server-sent-events-in-node-js-pylogix/)
 - [How to become a senior software engineer: Skills required to move from junior to senior level](https://pylogix.com/how-to-become-a-senior-software-engineer-skills-required-to-move-from-junior-to-senior-level/)
-- [Getting Started with Content Collections in Astro — Pylogix](https://pylogix.com/getting-started-with-content-collections-in-astro-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
