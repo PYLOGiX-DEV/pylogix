@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Use WebSockets in Node.js to Create Real-time Apps — Pylogix](https://pylogix.com/how-to-use-websockets-in-node-js-to-create-real-time-apps-pylogix/)
 - [Best Node.js Framework Choices for Modern App Development — Pylogix](https://pylogix.com/best-node-js-framework-choices-for-modern-app-development-pylogix/)
 - [Blazor Render Modes Explained — Pylogix](https://pylogix.com/blazor-render-modes-explained-pylogix/)
 - [What They Are, And 10 of the Best — Pylogix](https://pylogix.com/what-they-are-and-10-of-the-best-pylogix/)
 - [Understanding Cookies and Sessions in React — Pylogix](https://pylogix.com/understanding-cookies-and-sessions-in-react-pylogix/)
-- [Essential React Native Performance Tips and Tricks — Pylogix](https://pylogix.com/essential-react-native-performance-tips-and-tricks-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
