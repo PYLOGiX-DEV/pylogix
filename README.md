@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Is the New Way to the Cloud — Pylogix](https://pylogix.com/google-cloud-is-the-new-way-to-the-cloud-pylogix/)
 - [Understanding Vultr Content Delivery Networks &lpar;CDNs&rpar; — Pylogix](https://pylogix.com/understanding-vultr-content-delivery-networks-cdns-pylogix/)
 - [A Developer’s Guide to Adobe Experience Manager](https://pylogix.com/a-developers-guide-to-adobe-experience-manager/)
 - [Crafting Interactive Scatter Plots with Plotly — Pylogix](https://pylogix.com/crafting-interactive-scatter-plots-with-plotly-pylogix/)
 - [25 JavaScript interview questions &lpar;and answers&rpar; from basic to senior level](https://pylogix.com/25-javascript-interview-questions-and-answers-from-basic-to-senior-level/)
-- [How to Strengthen DNS Against DDoS Attacks](https://pylogix.com/how-to-strengthen-dns-against-ddos-attacks/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
