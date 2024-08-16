@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Reusable Creativity on Wix Studio — Pylogix](https://pylogix.com/reusable-creativity-on-wix-studio-pylogix/)
 - [10 Amazing Web Developer Resume Examples for Different Web Dev Specializations](https://pylogix.com/10-amazing-web-developer-resume-examples-for-different-web-dev-specializations/)
 - [How to Build Lightning Fast Surveys with Next.js and SurveyJS — Pylogix](https://pylogix.com/how-to-build-lightning-fast-surveys-with-next-js-and-surveyjs-pylogix/)
 - [45 VS Code Shortcuts for Boosting Your Productivity — Pylogix](https://pylogix.com/45-vs-code-shortcuts-for-boosting-your-productivity-pylogix/)
 - [Google Cloud Is the New Way to the Cloud — Pylogix](https://pylogix.com/google-cloud-is-the-new-way-to-the-cloud-pylogix/)
-- [Understanding Vultr Content Delivery Networks &lpar;CDNs&rpar; — Pylogix](https://pylogix.com/understanding-vultr-content-delivery-networks-cdns-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
