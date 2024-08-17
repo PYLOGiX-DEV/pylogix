@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Momento Migrates Object Cache as a Service to Ampere Altra — Pylogix](https://pylogix.com/momento-migrates-object-cache-as-a-service-to-ampere-altra-pylogix/)
 - [Reusable Creativity on Wix Studio — Pylogix](https://pylogix.com/reusable-creativity-on-wix-studio-pylogix/)
 - [10 Amazing Web Developer Resume Examples for Different Web Dev Specializations](https://pylogix.com/10-amazing-web-developer-resume-examples-for-different-web-dev-specializations/)
 - [How to Build Lightning Fast Surveys with Next.js and SurveyJS — Pylogix](https://pylogix.com/how-to-build-lightning-fast-surveys-with-next-js-and-surveyjs-pylogix/)
 - [45 VS Code Shortcuts for Boosting Your Productivity — Pylogix](https://pylogix.com/45-vs-code-shortcuts-for-boosting-your-productivity-pylogix/)
-- [Google Cloud Is the New Way to the Cloud — Pylogix](https://pylogix.com/google-cloud-is-the-new-way-to-the-cloud-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
