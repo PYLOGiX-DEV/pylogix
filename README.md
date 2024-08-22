@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [22 senior software engineer interview questions &lpar;and answers&rpar;](https://pylogix.com/22-senior-software-engineer-interview-questions-and-answers/)
 - [Introducing conversation practice: AI-powered simulations to build soft skills](https://pylogix.com/introducing-conversation-practice-ai-powered-simulations-to-build-soft-skills/)
 - [the ONLYOFFICE Docs case study](https://pylogix.com/the-onlyoffice-docs-case-study/)
 - [Momento Migrates Object Cache as a Service to Ampere Altra — Pylogix](https://pylogix.com/momento-migrates-object-cache-as-a-service-to-ampere-altra-pylogix/)
 - [Reusable Creativity on Wix Studio — Pylogix](https://pylogix.com/reusable-creativity-on-wix-studio-pylogix/)
-- [10 Amazing Web Developer Resume Examples for Different Web Dev Specializations](https://pylogix.com/10-amazing-web-developer-resume-examples-for-different-web-dev-specializations/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
