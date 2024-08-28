@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A Comprehensive Guide to Understanding TypeScript Record Type — Pylogix](https://pylogix.com/a-comprehensive-guide-to-understanding-typescript-record-type-pylogix/)
 - [How to Deploy Flask Applications on Vultr — Pylogix](https://pylogix.com/how-to-deploy-flask-applications-on-vultr-pylogix/)
 - [22 senior software engineer interview questions &lpar;and answers&rpar;](https://pylogix.com/22-senior-software-engineer-interview-questions-and-answers/)
 - [Introducing conversation practice: AI-powered simulations to build soft skills](https://pylogix.com/introducing-conversation-practice-ai-powered-simulations-to-build-soft-skills/)
 - [the ONLYOFFICE Docs case study](https://pylogix.com/the-onlyoffice-docs-case-study/)
-- [Momento Migrates Object Cache as a Service to Ampere Altra — Pylogix](https://pylogix.com/momento-migrates-object-cache-as-a-service-to-ampere-altra-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
