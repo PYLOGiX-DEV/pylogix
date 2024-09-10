@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Create a Toggle Switch in React as a Reusable Component — Pylogix](https://pylogix.com/create-a-toggle-switch-in-react-as-a-reusable-component-pylogix/)
 - [OpenX uses AmpereOne-powered C3A instances on Google Cloud to drive sustainability and performance at scale](https://pylogix.com/openx-uses-ampereone-powered-c3a-instances-on-google-cloud-to-drive-sustainability-and-performance-at-scale/)
 - [A Guide to Container Management Tools](https://pylogix.com/a-guide-to-container-management-tools/)
 - [28 SQL interview questions and answers from beginner to senior level](https://pylogix.com/28-sql-interview-questions-and-answers-from-beginner-to-senior-level/)
 - [A Comprehensive Guide to Understanding TypeScript Record Type — Pylogix](https://pylogix.com/a-comprehensive-guide-to-understanding-typescript-record-type-pylogix/)
-- [How to Deploy Flask Applications on Vultr — Pylogix](https://pylogix.com/how-to-deploy-flask-applications-on-vultr-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
