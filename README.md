@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Advice from Pylogix CEO, Tigran Sloyan, on prepping for tech interviews &amp; assessments](https://pylogix.com/advice-from-pylogix-ceo-tigran-sloyan-on-prepping-for-tech-interviews-assessments/)
 - [Building A 300 Channel Video Encoding Server — Pylogix](https://pylogix.com/building-a-300-channel-video-encoding-server-pylogix/)
 - [Building a Telemedicine Platform with AI-Powered Diagnostics Using Vultr — Pylogix](https://pylogix.com/building-a-telemedicine-platform-with-ai-powered-diagnostics-using-vultr-pylogix/)
 - [5 Techniques for Lazy Loading Images to Boost Website Performance — Pylogix](https://pylogix.com/5-techniques-for-lazy-loading-images-to-boost-website-performance-pylogix/)
 - [Create a Toggle Switch in React as a Reusable Component — Pylogix](https://pylogix.com/create-a-toggle-switch-in-react-as-a-reusable-component-pylogix/)
-- [OpenX uses AmpereOne-powered C3A instances on Google Cloud to drive sustainability and performance at scale](https://pylogix.com/openx-uses-ampereone-powered-c3a-instances-on-google-cloud-to-drive-sustainability-and-performance-at-scale/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
