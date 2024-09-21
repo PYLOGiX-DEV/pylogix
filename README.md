@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Web Deployment With Plesk on Vultr — Pylogix](https://pylogix.com/advanced-web-deployment-with-plesk-on-vultr-pylogix/)
 - [AI vs. human engineers: Benchmarking coding skills head-to-head](https://pylogix.com/ai-vs-human-engineers-benchmarking-coding-skills-head-to-head/)
 - [Building A 300 Channel Video Encoding Server — Pylogix](https://pylogix.com/building-a-300-channel-video-encoding-server-pylogix/)
 - [Building a Telemedicine Platform with AI-Powered Diagnostics Using Vultr — Pylogix](https://pylogix.com/building-a-telemedicine-platform-with-ai-powered-diagnostics-using-vultr-pylogix/)
 - [5 Techniques for Lazy Loading Images to Boost Website Performance — Pylogix](https://pylogix.com/5-techniques-for-lazy-loading-images-to-boost-website-performance-pylogix/)
-- [Create a Toggle Switch in React as a Reusable Component — Pylogix](https://pylogix.com/create-a-toggle-switch-in-react-as-a-reusable-component-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
