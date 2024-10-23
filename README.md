@@ -231,11 +231,16 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Here are some creative titles for an article about enterprise software management, keeping your brand guidelines in mind:
+
+Short &amp; Punchy:
+
+ Enterprise Software: Managed with Precision.
+ Pylogix: Your Ent](https://pylogix.com/here-are-some-creative-titles-for-an-article-about-enterprise-software-management-keeping-your-brand-guidelines-in-mindshort-punchy-enterprise-software-managed-with-precision-pylogix-your/)
+- [best practise software](https://pylogix.com/best-practise-software/)
 - [0G Foundation Launches Node Sale for Decentralized AI Network Verification](https://pylogix.com/0g-foundation-launches-node-sale-for-decentralized-ai-network-verification/)
 - [How to streamline and improve your tech hiring process](https://pylogix.com/how-to-streamline-and-improve-your-tech-hiring-process/)
 - [The CISSP Guide You Thought You Needed &lpar;But Didn’t&rpar;](https://pylogix.com/the-cissp-guide-you-thought-you-needed-but-didnt/)
-- [The Layman’s Guide to Ethereum’s ZK-Rollups: Scaling Without Sacrificing Decentralization](https://pylogix.com/the-laymans-guide-to-ethereums-zk-rollups-scaling-without-sacrificing-decentralization/)
-- [What’s Wrong With Your New Team?](https://pylogix.com/whats-wrong-with-your-new-team/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
