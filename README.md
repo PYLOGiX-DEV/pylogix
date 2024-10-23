@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Founder Interview: Daniel Keller, CEO and Co-founder of InFlux Technologies](https://pylogix.com/founder-interview-daniel-keller-ceo-and-co-founder-of-influx-technologies/)
-- [Advice from Pylogix CEO, Tigran Sloyan, on prepping for tech interviews &amp; assessments](https://pylogix.com/advice-from-pylogix-ceo-tigran-sloyan-on-prepping-for-tech-interviews-assessments/)
 - [0G Foundation Launches Node Sale for Decentralized AI Network Verification](https://pylogix.com/0g-foundation-launches-node-sale-for-decentralized-ai-network-verification/)
 - [How to streamline and improve your tech hiring process](https://pylogix.com/how-to-streamline-and-improve-your-tech-hiring-process/)
 - [The CISSP Guide You Thought You Needed &lpar;But Didn’t&rpar;](https://pylogix.com/the-cissp-guide-you-thought-you-needed-but-didnt/)
+- [The Layman’s Guide to Ethereum’s ZK-Rollups: Scaling Without Sacrificing Decentralization](https://pylogix.com/the-laymans-guide-to-ethereums-zk-rollups-scaling-without-sacrificing-decentralization/)
+- [What’s Wrong With Your New Team?](https://pylogix.com/whats-wrong-with-your-new-team/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
