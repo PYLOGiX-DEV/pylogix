@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Advice from Pylogix CEO, Tigran Sloyan, on prepping for tech interviews &amp; assessments](https://pylogix.com/advice-from-pylogix-ceo-tigran-sloyan-on-prepping-for-tech-interviews-assessments/)
 - [0G Foundation Launches Node Sale for Decentralized AI Network Verification](https://pylogix.com/0g-foundation-launches-node-sale-for-decentralized-ai-network-verification/)
 - [How to streamline and improve your tech hiring process](https://pylogix.com/how-to-streamline-and-improve-your-tech-hiring-process/)
 - [The CISSP Guide You Thought You Needed &lpar;But Didn’t&rpar;](https://pylogix.com/the-cissp-guide-you-thought-you-needed-but-didnt/)
 - [The TechBeat: How Fortnite Creative and UEFN Is The Next Big Creative Moneymaker and Why &lpar;10/21/2024&rpar;](https://pylogix.com/the-techbeat-how-fortnite-creative-and-uefn-is-the-next-big-creative-moneymaker-and-why-10-21-2024/)
-- [The Layman’s Guide to Ethereum’s ZK-Rollups: Scaling Without Sacrificing Decentralization](https://pylogix.com/the-laymans-guide-to-ethereums-zk-rollups-scaling-without-sacrificing-decentralization/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
