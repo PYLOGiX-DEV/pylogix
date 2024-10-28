@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [From Layoff to Launch: Connectech ID’s Vision for Indonesia’s Tech Community](https://pylogix.com/from-layoff-to-launch-connectech-ids-vision-for-indonesias-tech-community/)
 - [Essential Linux Commands for File and Directory Management](https://pylogix.com/essential-linux-commands-for-file-and-directory-management/)
 - [The TechBeat: Lumoz: Pioneering Blockchain Scalability With OP Stack and ZK Innovation &lpar;10/27/2024&rpar;](https://pylogix.com/the-techbeat-lumoz-pioneering-blockchain-scalability-with-op-stack-and-zk-innovation-10-27-2024/)
 - [A Developer’s Perspective on Time-Based Estimates](https://pylogix.com/a-developers-perspective-on-time-based-estimates/)
 - [Top 5 Angular UI Components](https://pylogix.com/top-5-angular-ui-components/)
-- [Software Engineering vs. Software Development: What’s the Difference?](https://pylogix.com/software-engineering-vs-software-development-whats-the-difference/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
