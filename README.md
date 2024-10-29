@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Exploring Various Software Development Methodologies](https://pylogix.com/exploring-various-software-development-methodologies/)
 - [Celebrating 1 million practices completed on Pylogix Learn](https://pylogix.com/celebrating-1-million-practices-completed-on-pylogix-learn/)
 - [Heyo, AI Character – Stay Away from My Child; Get a Job](https://pylogix.com/heyo-ai-character-stay-away-from-my-child-get-a-job/)
 - [The Impact of Machine Learning on Software Development](https://pylogix.com/the-impact-of-machine-learning-on-software-development/)
 - [From Layoff to Launch: Connectech ID’s Vision for Indonesia’s Tech Community](https://pylogix.com/from-layoff-to-launch-connectech-ids-vision-for-indonesias-tech-community/)
-- [Essential Linux Commands for File and Directory Management](https://pylogix.com/essential-linux-commands-for-file-and-directory-management/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
