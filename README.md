@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Meet Cropler, Connectech &amp; DoubleShift: Pylogix Startups of the Week](https://pylogix.com/meet-cropler-connectech-doubleshift-pylogix-startups-of-the-week/)
 - [PassMe.ai Review: Is This AI Stealth Writer Worth It?](https://pylogix.com/passme-ai-review-is-this-ai-stealth-writer-worth-it/)
 - [Exploring Various Software Development Methodologies](https://pylogix.com/exploring-various-software-development-methodologies/)
 - [Celebrating 1 million practices completed on Pylogix Learn](https://pylogix.com/celebrating-1-million-practices-completed-on-pylogix-learn/)
 - [Heyo, AI Character – Stay Away from My Child; Get a Job](https://pylogix.com/heyo-ai-character-stay-away-from-my-child-get-a-job/)
-- [The Impact of Machine Learning on Software Development](https://pylogix.com/the-impact-of-machine-learning-on-software-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
