@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [A Deep Dive into Building Enterprise grade Generative AI Solutions — Pylogix](https://pylogix.com/a-deep-dive-into-building-enterprise-grade-generative-ai-solutions-pylogix/)
 - [Exploring Common Workplaces for Software Developers](https://pylogix.com/exploring-common-workplaces-for-software-developers/)
 - [Navigating bias in the AI era: A conversation with Dr. Clementine Collett](https://pylogix.com/navigating-bias-in-the-ai-era-a-conversation-with-dr-clementine-collett/)
 - [How to Get Around Paywalls on Major Websites](https://pylogix.com/how-to-get-around-paywalls-on-major-websites/)
 - [How to Contribute to an Open Source Project As a Technical Writing](https://pylogix.com/how-to-contribute-to-an-open-source-project-as-a-technical-writing/)
-- [Software Development for Food and Beverage Industries](https://pylogix.com/software-development-for-food-and-beverage-industries/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
