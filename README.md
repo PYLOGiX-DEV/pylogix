@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The TechBeat: Lumoz: Pioneering Blockchain Scalability With OP Stack and ZK Innovation &lpar;11/2/2024&rpar;](https://pylogix.com/the-techbeat-lumoz-pioneering-blockchain-scalability-with-op-stack-and-zk-innovation-11-2-2024/)
 - [A Deep Dive into Building Enterprise grade Generative AI Solutions — Pylogix](https://pylogix.com/a-deep-dive-into-building-enterprise-grade-generative-ai-solutions-pylogix/)
 - [Exploring Common Workplaces for Software Developers](https://pylogix.com/exploring-common-workplaces-for-software-developers/)
 - [Navigating bias in the AI era: A conversation with Dr. Clementine Collett](https://pylogix.com/navigating-bias-in-the-ai-era-a-conversation-with-dr-clementine-collett/)
 - [How to Get Around Paywalls on Major Websites](https://pylogix.com/how-to-get-around-paywalls-on-major-websites/)
-- [How to Contribute to an Open Source Project As a Technical Writing](https://pylogix.com/how-to-contribute-to-an-open-source-project-as-a-technical-writing/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
