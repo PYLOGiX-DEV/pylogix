@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Track the YARN Task Status in DolphinScheduler](https://pylogix.com/how-to-track-the-yarn-task-status-in-dolphinscheduler/)
 - [What Can Trump Change in US Crypto Regulation?](https://pylogix.com/what-can-trump-change-in-us-crypto-regulation/)
 - [The Role of Quantum Computing in Software Development](https://pylogix.com/the-role-of-quantum-computing-in-software-development/)
 - [The TechBeat: Lumoz: Pioneering Blockchain Scalability With OP Stack and ZK Innovation &lpar;11/2/2024&rpar;](https://pylogix.com/the-techbeat-lumoz-pioneering-blockchain-scalability-with-op-stack-and-zk-innovation-11-2-2024/)
 - [A Deep Dive into Building Enterprise grade Generative AI Solutions — Pylogix](https://pylogix.com/a-deep-dive-into-building-enterprise-grade-generative-ai-solutions-pylogix/)
-- [Exploring Common Workplaces for Software Developers](https://pylogix.com/exploring-common-workplaces-for-software-developers/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
