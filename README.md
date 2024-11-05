@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Role of Software Development in Transportation](https://pylogix.com/the-role-of-software-development-in-transportation/)
 - [Is ByteDance’s Lumi an AI Experiment Disguised as an AI Creator Community?](https://pylogix.com/is-bytedances-lumi-an-ai-experiment-disguised-as-an-ai-creator-community/)
 - [Laravel Under The Hood – The Magic of Macros](https://pylogix.com/laravel-under-the-hood-the-magic-of-macros/)
 - [Top 10 Software Development Companies in the USA and UK](https://pylogix.com/top-10-software-development-companies-in-the-usa-and-uk/)
 - [Here’s Why Owning a Directory = Owning a Free Infinite Marketing Channel](https://pylogix.com/heres-why-owning-a-directory-owning-a-free-infinite-marketing-channel/)
-- [The Role of Software Development in Healthcare](https://pylogix.com/the-role-of-software-development-in-healthcare/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
