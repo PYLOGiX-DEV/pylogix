@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Software Development for Artificial Intelligence Applications](https://pylogix.com/software-development-for-artificial-intelligence-applications/)
 - [AI in Gaming: A Case Study in Virtual Economies](https://pylogix.com/ai-in-gaming-a-case-study-in-virtual-economies/)
 - [Exploring the Software Engineering Job Market](https://pylogix.com/exploring-the-software-engineering-job-market/)
 - [Could Trump Make Crypto Great Again?](https://pylogix.com/could-trump-make-crypto-great-again/)
 - [Here’s Why Talent Isn’t Rare. This Is.](https://pylogix.com/heres-why-talent-isnt-rare-this-is/)
-- [Software Development for Logistics and Transportation](https://pylogix.com/software-development-for-logistics-and-transportation/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
