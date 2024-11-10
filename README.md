@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Big Power of Small Pull Requests: How They Improve Reviews and Speed Up Development](https://pylogix.com/the-big-power-of-small-pull-requests-how-they-improve-reviews-and-speed-up-development/)
 - [Software Engineering Salaries: Trends and Predictions](https://pylogix.com/software-engineering-salaries-trends-and-predictions/)
 - [The Pylogix Newsletter: Polymarket Explained: How Blockchain Prediction Markets Are Shaping the Future of Forecasting &lpar;11/9/2024&rpar;](https://pylogix.com/the-pylogix-newsletter-polymarket-explained-how-blockchain-prediction-markets-are-shaping-the-future-of-forecasting-11-9-2024/)
 - [How to Implement Multi-Tenant Authentication with Keycloak in an Angular Spring Boot Stack](https://pylogix.com/how-to-implement-multi-tenant-authentication-with-keycloak-in-an-angular-spring-boot-stack/)
 - [Software Development for Artificial Intelligence Applications](https://pylogix.com/software-development-for-artificial-intelligence-applications/)
-- [AI in Gaming: A Case Study in Virtual Economies](https://pylogix.com/ai-in-gaming-a-case-study-in-virtual-economies/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
