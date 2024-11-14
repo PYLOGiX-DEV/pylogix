@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Software Development for E-commerce Platforms](https://pylogix.com/software-development-for-e-commerce-platforms/)
 - [From DateMyAge to Kiseki: Building AI Bridges Between Hearts and Cultures](https://pylogix.com/from-datemyage-to-kiseki-building-ai-bridges-between-hearts-and-cultures/)
 - [Software Development for Healthcare Applications](https://pylogix.com/software-development-for-healthcare-applications/)
 - [Evaluating Promptable Segmentation with Uniform Point Grids and Bounding Boxes on Diverse Datasets](https://pylogix.com/evaluating-promptable-segmentation-with-uniform-point-grids-and-bounding-boxes-on-diverse-datasets/)
 - [PotCoin Announces the Launch of the High Rollers Club](https://pylogix.com/potcoin-announces-the-launch-of-the-high-rollers-club/)
-- [Average Earnings of Software Developers in the UK](https://pylogix.com/average-earnings-of-software-developers-in-the-uk/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
