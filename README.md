@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Pylogix Newsletter: Explaining Prompt Engineering &lpar;11/15/2024&rpar;](https://pylogix.com/the-pylogix-newsletter-explaining-prompt-engineering-11-15-2024/)
 - [Odysee Goes Ad-Free: How This Bold Move Challenges the YouTube Empire](https://pylogix.com/odysee-goes-ad-free-how-this-bold-move-challenges-the-youtube-empire/)
 - [Software Development for E-commerce Platforms](https://pylogix.com/software-development-for-e-commerce-platforms/)
 - [From DateMyAge to Kiseki: Building AI Bridges Between Hearts and Cultures](https://pylogix.com/from-datemyage-to-kiseki-building-ai-bridges-between-hearts-and-cultures/)
 - [Software Development for Healthcare Applications](https://pylogix.com/software-development-for-healthcare-applications/)
-- [Evaluating Promptable Segmentation with Uniform Point Grids and Bounding Boxes on Diverse Datasets](https://pylogix.com/evaluating-promptable-segmentation-with-uniform-point-grids-and-bounding-boxes-on-diverse-datasets/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
