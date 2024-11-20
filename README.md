@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Unlock the Secrets of Range Loops: How Element Evaluation Affects Your Go Code](https://pylogix.com/unlock-the-secrets-of-range-loops-how-element-evaluation-affects-your-go-code/)
 - [The Developer’s Guide to AI Chatbot Authorization — Pylogix](https://pylogix.com/the-developers-guide-to-ai-chatbot-authorization-pylogix/)
 - [The Impact of 5G on Software Development](https://pylogix.com/the-impact-of-5g-on-software-development/)
 - [The Challenges and Rewards of a Career in Software Development](https://pylogix.com/the-challenges-and-rewards-of-a-career-in-software-development/)
 - [An Overview of the Software Development Process](https://pylogix.com/an-overview-of-the-software-development-process/)
-- [Agile vs. Waterfall: Choosing the Right Development Methodology](https://pylogix.com/agile-vs-waterfall-choosing-the-right-development-methodology/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
