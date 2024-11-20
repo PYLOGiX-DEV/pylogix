@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Developer’s Guide to AI Chatbot Authorization — Pylogix](https://pylogix.com/the-developers-guide-to-ai-chatbot-authorization-pylogix/)
 - [The Impact of 5G on Software Development](https://pylogix.com/the-impact-of-5g-on-software-development/)
 - [The Challenges and Rewards of a Career in Software Development](https://pylogix.com/the-challenges-and-rewards-of-a-career-in-software-development/)
 - [An Overview of the Software Development Process](https://pylogix.com/an-overview-of-the-software-development-process/)
 - [Agile vs. Waterfall: Choosing the Right Development Methodology](https://pylogix.com/agile-vs-waterfall-choosing-the-right-development-methodology/)
-- [Bringing Artisan Baking to Your Door Step: Interview with SOTY 2024 Nominee, Atome Bakery](https://pylogix.com/bringing-artisan-baking-to-your-door-step-interview-with-soty-2024-nominee-atome-bakery/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
