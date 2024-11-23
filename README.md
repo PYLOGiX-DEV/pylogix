@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Extending Stochastic Gradient Optimization with ADAM](https://pylogix.com/extending-stochastic-gradient-optimization-with-adam/)
+- [How to Learn Software Development: A Step-by-Step Guide](https://pylogix.com/how-to-learn-software-development-a-step-by-step-guide/)
 - [S.T.A.L.K.E.R. 2: From Legacy to Legend](https://pylogix.com/s-t-a-l-k-e-r-2-from-legacy-to-legend/)
 - [The Benefits of Pursuing a Career in Software Development](https://pylogix.com/the-benefits-of-pursuing-a-career-in-software-development/)
 - [The TechBeat: Building dApps that Last: Why Cairo is the Winner Programming Language for Web3 Devs &lpar;11/21/2024&rpar;](https://pylogix.com/the-techbeat-building-dapps-that-last-why-cairo-is-the-winner-programming-language-for-web3-devs-11-21-2024/)
-- [The CSS Reset Contradiction — Pylogix](https://pylogix.com/the-css-reset-contradiction-pylogix/)
-- [The Heart of DolphinScheduler: In-Depth Analysis of the Quartz Scheduling Framework](https://pylogix.com/the-heart-of-dolphinscheduler-in-depth-analysis-of-the-quartz-scheduling-framework/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
