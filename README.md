@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Charles Mah on taking a human-centric approach to AI in hiring](https://pylogix.com/charles-mah-on-taking-a-human-centric-approach-to-ai-in-hiring/)
 - [Why the NIH’s BRAIN Initiative Research Funding is Wilting](https://pylogix.com/why-the-nihs-brain-initiative-research-funding-is-wilting/)
 - [Software Developer Salaries: How Much Do They Earn?](https://pylogix.com/software-developer-salaries-how-much-do-they-earn/)
 - [How DreamLLM Generates an Image On Its Own “Free Will”](https://pylogix.com/how-dreamllm-generates-an-image-on-its-own-free-will/)
 - [2001: A Bitcoin Odyssey | Pylogix](https://pylogix.com/2001-a-bitcoin-odyssey-pylogix/)
-- [Understanding Cloud Computing in Software Development](https://pylogix.com/understanding-cloud-computing-in-software-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
