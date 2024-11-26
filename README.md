@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Your own Image Generation API service with FLUX, Python, and Diffusers — Pylogix](https://pylogix.com/your-own-image-generation-api-service-with-flux-python-and-diffusers-pylogix/)
 - [Is Software Development Considered IT?](https://pylogix.com/is-software-development-considered-it/)
 - [Charles Mah on taking a human-centric approach to AI in hiring](https://pylogix.com/charles-mah-on-taking-a-human-centric-approach-to-ai-in-hiring/)
 - [Why the NIH’s BRAIN Initiative Research Funding is Wilting](https://pylogix.com/why-the-nihs-brain-initiative-research-funding-is-wilting/)
 - [Software Developer Salaries: How Much Do They Earn?](https://pylogix.com/software-developer-salaries-how-much-do-they-earn/)
-- [How DreamLLM Generates an Image On Its Own “Free Will”](https://pylogix.com/how-dreamllm-generates-an-image-on-its-own-free-will/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
