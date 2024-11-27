@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Long Road Home: A Story of Loss, Learning, and Renaissance – PART 4](https://pylogix.com/the-long-road-home-a-story-of-loss-learning-and-renaissance-part-4/)
 - [How to learn C++: An upskilling guide for beginners](https://pylogix.com/how-to-learn-c-an-upskilling-guide-for-beginners/)
 - [The Role of a Software Development Engineer](https://pylogix.com/the-role-of-a-software-development-engineer/)
 - [Protobuf Under the Hood: How Serialization and Deserialization Work in Go](https://pylogix.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go/)
 - [Advice from Pylogix CEO, Tigran Sloyan, on prepping for tech interviews &amp; assessments](https://pylogix.com/advice-from-pylogix-ceo-tigran-sloyan-on-prepping-for-tech-interviews-assessments/)
-- [Sales hiring just got smarter: Meet AI Interviewer for Sales](https://pylogix.com/sales-hiring-just-got-smarter-meet-ai-interviewer-for-sales/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
