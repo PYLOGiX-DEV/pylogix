@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How Coinspect is Revolutionizing Blockchain Technology Through Advanced Security](https://pylogix.com/how-coinspect-is-revolutionizing-blockchain-technology-through-advanced-security/)
 - [The Role of Big Data in Software Development](https://pylogix.com/the-role-of-big-data-in-software-development/)
 - [The Long Road Home: A Story of Loss, Learning, and Renaissance – PART 4](https://pylogix.com/the-long-road-home-a-story-of-loss-learning-and-renaissance-part-4/)
 - [How to learn C++: An upskilling guide for beginners](https://pylogix.com/how-to-learn-c-an-upskilling-guide-for-beginners/)
 - [The Role of a Software Development Engineer](https://pylogix.com/the-role-of-a-software-development-engineer/)
-- [Protobuf Under the Hood: How Serialization and Deserialization Work in Go](https://pylogix.com/protobuf-under-the-hood-how-serialization-and-deserialization-work-in-go/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
