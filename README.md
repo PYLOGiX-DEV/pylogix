@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Does Claim Management Work with AI Automation? — Pylogix](https://pylogix.com/does-claim-management-work-with-ai-automation-pylogix/)
 - [Software Development for Virtual and Augmented Reality](https://pylogix.com/software-development-for-virtual-and-augmented-reality/)
 - [The TechBeat: No, You Don’t Need a Highly Specialized Team to Build Your SaaS Application &lpar;12/5/2024&rpar;](https://pylogix.com/the-techbeat-no-you-dont-need-a-highly-specialized-team-to-build-your-saas-application-12-5-2024/)
 - [Video Recaps of Ampere’s 2024 Developer Summit — Pylogix](https://pylogix.com/video-recaps-of-amperes-2024-developer-summit-pylogix/)
 - [The Future of Software Development: Emerging Technologies](https://pylogix.com/the-future-of-software-development-emerging-technologies/)
-- [Step-by-Step: Building a REST API That Talks to Hugging Face Models](https://pylogix.com/step-by-step-building-a-rest-api-that-talks-to-hugging-face-models/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
