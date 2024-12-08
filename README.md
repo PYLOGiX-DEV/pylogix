@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What Is Agentic AI? | Pylogix](https://pylogix.com/what-is-agentic-ai-pylogix/)
 - [A Comprehensive Guide to Software Development Kits &lpar;SDKs&rpar;](https://pylogix.com/a-comprehensive-guide-to-software-development-kits-sdks/)
 - [The Economic Impact of Stochastic Equilibrium: Price Distortions, Interest Rates, and Welfare](https://pylogix.com/the-economic-impact-of-stochastic-equilibrium-price-distortions-interest-rates-and-welfare/)
 - [Fine-Tuning an Open-Source LLM with Axolotl Using Direct Preference Optimization &lpar;DPO&rpar; — Pylogix](https://pylogix.com/fine-tuning-an-open-source-llm-with-axolotl-using-direct-preference-optimization-dpo-pylogix/)
 - [Software Development for Mobile Platforms: Best Practices](https://pylogix.com/software-development-for-mobile-platforms-best-practices/)
-- [A Pentester Took Apart a Website’s Code to Prove It Was Totally Pointless](https://pylogix.com/a-pentester-took-apart-a-websites-code-to-prove-it-was-totally-pointless/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
