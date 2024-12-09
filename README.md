@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [The TechBeat: No, You Don’t Need a Highly Specialized Team to Build Your SaaS Application &lpar;12/9/2024&rpar;](https://pylogix.com/the-techbeat-no-you-dont-need-a-highly-specialized-team-to-build-your-saas-application-12-9-2024/)
 - [Software Development and R&amp;D Tax Credits: What Qualifies?](https://pylogix.com/software-development-and-rd-tax-credits-what-qualifies/)
-- [The Pylogix Newsletter: Deno vs Oracle: Who Really Owns JavaScript? &lpar;12/8/2024&rpar;](https://pylogix.com/the-pylogix-newsletter-deno-vs-oracle-who-really-owns-javascript-12-8-2024/)
 - [What Is Agentic AI? | Pylogix](https://pylogix.com/what-is-agentic-ai-pylogix/)
 - [A Comprehensive Guide to Software Development Kits &lpar;SDKs&rpar;](https://pylogix.com/a-comprehensive-guide-to-software-development-kits-sdks/)
+- [The Economic Impact of Stochastic Equilibrium: Price Distortions, Interest Rates, and Welfare](https://pylogix.com/the-economic-impact-of-stochastic-equilibrium-price-distortions-interest-rates-and-welfare/)
+- [Fine-Tuning an Open-Source LLM with Axolotl Using Direct Preference Optimization &lpar;DPO&rpar; — Pylogix](https://pylogix.com/fine-tuning-an-open-source-llm-with-axolotl-using-direct-preference-optimization-dpo-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
