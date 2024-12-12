@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Impact of Automation on Software Development](https://pylogix.com/the-impact-of-automation-on-software-development/)
 - [The Role of Software Development in Financial Services](https://pylogix.com/the-role-of-software-development-in-financial-services/)
 - [Accessibility Best Practices for Single Page Applications &lpar;SPAs&rpar; — Pylogix](https://pylogix.com/accessibility-best-practices-for-single-page-applications-spas-pylogix/)
 - [Can a Career in Software Engineering Lead to Wealth?](https://pylogix.com/can-a-career-in-software-engineering-lead-to-wealth/)
 - [Software Development and R&amp;D Tax Credits: What Qualifies?](https://pylogix.com/software-development-and-rd-tax-credits-what-qualifies/)
-- [What Is Agentic AI? | Pylogix](https://pylogix.com/what-is-agentic-ai-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
