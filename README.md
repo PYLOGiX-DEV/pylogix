@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Software Development for Travel and Tourism](https://pylogix.com/software-development-for-travel-and-tourism/)
 - [Accounting for Software Development Costs: To Capitalize or Not](https://pylogix.com/accounting-for-software-development-costs-to-capitalize-or-not/)
 - [Software Development for Entertainment and Media](https://pylogix.com/software-development-for-entertainment-and-media/)
 - [The Impact of Automation on Software Development](https://pylogix.com/the-impact-of-automation-on-software-development/)
 - [The Role of Software Development in Financial Services](https://pylogix.com/the-role-of-software-development-in-financial-services/)
-- [Accessibility Best Practices for Single Page Applications &lpar;SPAs&rpar; — Pylogix](https://pylogix.com/accessibility-best-practices-for-single-page-applications-spas-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
