@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Passkeys — Pylogix](https://pylogix.com/how-to-implement-passkeys-pylogix/)
 - [The Reality of Remote Work for Software Developers](https://pylogix.com/the-reality-of-remote-work-for-software-developers/)
 - [Software Development for Travel and Tourism](https://pylogix.com/software-development-for-travel-and-tourism/)
 - [Accounting for Software Development Costs: To Capitalize or Not](https://pylogix.com/accounting-for-software-development-costs-to-capitalize-or-not/)
 - [Software Development for Entertainment and Media](https://pylogix.com/software-development-for-entertainment-and-media/)
-- [The Impact of Automation on Software Development](https://pylogix.com/the-impact-of-automation-on-software-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
