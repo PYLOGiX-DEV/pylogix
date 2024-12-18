@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [The Importance of Software Development in Education](https://pylogix.com/the-importance-of-software-development-in-education/)
 - [How Programming Software Enhances Developer Productivity](https://pylogix.com/how-programming-software-enhances-developer-productivity/)
 - [How to Implement Passkeys — Pylogix](https://pylogix.com/how-to-implement-passkeys-pylogix/)
 - [The Reality of Remote Work for Software Developers](https://pylogix.com/the-reality-of-remote-work-for-software-developers/)
 - [Software Development for Travel and Tourism](https://pylogix.com/software-development-for-travel-and-tourism/)
-- [Accounting for Software Development Costs: To Capitalize or Not](https://pylogix.com/accounting-for-software-development-costs-to-capitalize-or-not/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
