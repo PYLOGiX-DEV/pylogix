@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up the New Google Auth in a React and Express App — Pylogix](https://pylogix.com/how-to-set-up-the-new-google-auth-in-a-react-and-express-app-pylogix/)
 - [Software Development for Government Services](https://pylogix.com/software-development-for-government-services/)
 - [a Complete Introduction — Pylogix](https://pylogix.com/a-complete-introduction-pylogix/)
 - [The Role of Software Development in Non-Profit Organizations](https://pylogix.com/the-role-of-software-development-in-non-profit-organizations/)
 - [Top Universities to Study Software Development in the USA and UK](https://pylogix.com/top-universities-to-study-software-development-in-the-usa-and-uk/)
-- [The Best Programming Languages for Game Development Revealed — Pylogix](https://pylogix.com/the-best-programming-languages-for-game-development-revealed-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
