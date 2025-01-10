@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How Amazon Q is emerging as no-code serverless Gen AI virtual assistant — Pylogix](https://pylogix.com/how-amazon-q-is-emerging-as-no-code-serverless-gen-ai-virtual-assistant-pylogix/)
 - [Top 10 Essential Software Development Tools in 2024](https://pylogix.com/top-10-essential-software-development-tools-in-2024/)
 - [Global Software Developer Statistics: An Overview](https://pylogix.com/global-software-developer-statistics-an-overview/)
 - [The Role of DevOps in Modern Software Development](https://pylogix.com/the-role-of-devops-in-modern-software-development/)
 - [jQuery Form Validation Tutorial: Simple Example with jQuery Validation Plugin](https://pylogix.com/jquery-form-validation-tutorial-simple-example-with-jquery-validation-plugin/)
-- [A Beginner’s Guide to Developing a Software Program](https://pylogix.com/a-beginners-guide-to-developing-a-software-program/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
