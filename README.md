@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How to Conduct Accessibility Testing with Screen Readers — Pylogix](https://pylogix.com/how-to-conduct-accessibility-testing-with-screen-readers-pylogix/)
 - [Understanding Software Development Scaling: Does It Scale Down VCE?](https://pylogix.com/understanding-software-development-scaling-does-it-scale-down-vce/)
 - [How Game Developers Detect and Prevent Modding and Scripting — Pylogix](https://pylogix.com/how-game-developers-detect-and-prevent-modding-and-scripting-pylogix/)
 - [Control Statements in C Language: Types, Examples, and Usage](https://pylogix.com/control-statements-in-c-language-types-examples-and-usage/)
 - [Software Developer Demographics: An Overview](https://pylogix.com/software-developer-demographics-an-overview/)
-- [How Amazon Q is emerging as no-code serverless Gen AI virtual assistant — Pylogix](https://pylogix.com/how-amazon-q-is-emerging-as-no-code-serverless-gen-ai-virtual-assistant-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
