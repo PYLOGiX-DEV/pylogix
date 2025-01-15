@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Learn Data Structures and Algorithms: Complete Tutorial](https://pylogix.com/learn-data-structures-and-algorithms-complete-tutorial/)
 - [Key Industries Hiring Software Developers](https://pylogix.com/key-industries-hiring-software-developers/)
 - [A beginner’s guide to Retrieval-Augmented Generation &lpar;RAG&rpar; — Pylogix](https://pylogix.com/a-beginners-guide-to-retrieval-augmented-generation-rag-pylogix/)
 - [The Importance of Software Development in Agriculture](https://pylogix.com/the-importance-of-software-development-in-agriculture/)
 - [Software Development for Automotive Industries](https://pylogix.com/software-development-for-automotive-industries/)
-- [How to Conduct Accessibility Testing with Screen Readers — Pylogix](https://pylogix.com/how-to-conduct-accessibility-testing-with-screen-readers-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
