@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Demystifying the Software Development Cycle](https://pylogix.com/demystifying-the-software-development-cycle/)
 - [The Debate on Capitalizing Software Development Costs](https://pylogix.com/the-debate-on-capitalizing-software-development-costs/)
 - [The Role of Blockchain in Software Development](https://pylogix.com/the-role-of-blockchain-in-software-development/)
 - [Most Popular Software Development Languages Today](https://pylogix.com/most-popular-software-development-languages-today/)
 - [The Importance of User Experience &lpar;UX&rpar; in Software Development](https://pylogix.com/the-importance-of-user-experience-ux-in-software-development/)
-- [What is TCP/IP Model and How Does The Protocol Work – Pylogix](https://pylogix.com/what-is-tcp-ip-model-and-how-does-the-protocol-work-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
