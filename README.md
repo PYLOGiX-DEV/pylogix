@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [ZEISS Demonstrates the Power of Scalable Workflows with Ampere Altra and SpinKube — Pylogix](https://pylogix.com/zeiss-demonstrates-the-power-of-scalable-workflows-with-ampere-altra-and-spinkube-pylogix/)
 - [Software Development for Wearable Technology](https://pylogix.com/software-development-for-wearable-technology/)
 - [DDL, DML, DQL, DCL, and TCL – Pylogix](https://pylogix.com/ddl-dml-dql-dcl-and-tcl-pylogix/)
 - [The Impact of Software Development on Supply Chain Management](https://pylogix.com/the-impact-of-software-development-on-supply-chain-management/)
 - [Software Development Outsourcing: Pros and Cons](https://pylogix.com/software-development-outsourcing-pros-and-cons/)
-- [How to analyze large datasets with Python: Key principles &amp; tips](https://pylogix.com/how-to-analyze-large-datasets-with-python-key-principles-tips/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
