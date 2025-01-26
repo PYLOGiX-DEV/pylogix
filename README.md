@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Software Development for Real Estate Applications](https://pylogix.com/software-development-for-real-estate-applications/)
 - [A Complete Tutorial and Examples – Pylogix](https://pylogix.com/a-complete-tutorial-and-examples-pylogix/)
 - [The Importance of Software Development in Aerospace](https://pylogix.com/the-importance-of-software-development-in-aerospace/)
 - [ZEISS Demonstrates the Power of Scalable Workflows with Ampere Altra and SpinKube — Pylogix](https://pylogix.com/zeiss-demonstrates-the-power-of-scalable-workflows-with-ampere-altra-and-spinkube-pylogix/)
 - [Software Development for Wearable Technology](https://pylogix.com/software-development-for-wearable-technology/)
-- [DDL, DML, DQL, DCL, and TCL – Pylogix](https://pylogix.com/ddl-dml-dql-dcl-and-tcl-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
