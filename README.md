@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [What Is Cloud Computing? – Pylogix](https://pylogix.com/what-is-cloud-computing-pylogix/)
 - [The Role of Software Development in Digital Transformation](https://pylogix.com/the-role-of-software-development-in-digital-transformation/)
 - [Software Development for Real Estate Applications](https://pylogix.com/software-development-for-real-estate-applications/)
 - [A Complete Tutorial and Examples – Pylogix](https://pylogix.com/a-complete-tutorial-and-examples-pylogix/)
 - [The Importance of Software Development in Aerospace](https://pylogix.com/the-importance-of-software-development-in-aerospace/)
-- [ZEISS Demonstrates the Power of Scalable Workflows with Ampere Altra and SpinKube — Pylogix](https://pylogix.com/zeiss-demonstrates-the-power-of-scalable-workflows-with-ampere-altra-and-spinkube-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
