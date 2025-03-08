@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Prompt Engineering for Web Development — Pylogix](https://pylogix.com/prompt-engineering-for-web-development-pylogix/)
 - [Your customer teams need an AI Interviewer &lpar;really&rpar;](https://pylogix.com/your-customer-teams-need-an-ai-interviewer-really/)
 - [How to get your interviewers asking the right questions](https://pylogix.com/how-to-get-your-interviewers-asking-the-right-questions/)
 - [There’s a better way to hire Product Managers—here’s how](https://pylogix.com/theres-a-better-way-to-hire-product-managers-heres-how/)
 - [10 Best AI Code Review Tools and How They Work — Pylogix](https://pylogix.com/10-best-ai-code-review-tools-and-how-they-work-pylogix/)
-- [Top Coderbyte alternatives: Scalable technical hiring for growing teams](https://pylogix.com/top-coderbyte-alternatives-scalable-technical-hiring-for-growing-teams/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
