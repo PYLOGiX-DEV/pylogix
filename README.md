@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing User Experience through Advanced Mobile App Development](https://pylogix.com/enhancing-user-experience-through-advanced-mobile-app-development/)
+- [Pylogix named to GSV 150 for transforming workforce skill development](https://pylogix.com/pylogix-named-to-gsv-150-for-transforming-workforce-skill-development/)
 - [Transform 2025 recap: The future of work takes center stage](https://pylogix.com/transform-2025-recap-the-future-of-work-takes-center-stage/)
 - [Pylogix named one of the world’s most innovative companies by Fast Company](https://pylogix.com/pylogix-named-one-of-the-worlds-most-innovative-companies-by-fast-company/)
 - [Top developer assessment tools to elevate your hiring process](https://pylogix.com/top-developer-assessment-tools-to-elevate-your-hiring-process/)
-- [Making a Browser Based Game With Vanilla JS and CSS – Pylogix](https://pylogix.com/making-a-browser-based-game-with-vanilla-js-and-css-pylogix/)
-- [Prompt Engineering for Web Development — Pylogix](https://pylogix.com/prompt-engineering-for-web-development-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
