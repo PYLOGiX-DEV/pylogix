@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [“Disrupt or be disrupted:” 10 experts on incorporating AI into your hiring process](https://pylogix.com/disrupt-or-be-disrupted-10-experts-on-incorporating-ai-into-your-hiring-process/)
 - [The Role of Artificial Intelligence in the Future of Software Development](https://pylogix.com/the-role-of-artificial-intelligence-in-the-future-of-software-development/)
 - [Serverless Image Processing Pipeline with AWS ECS and Lambda — Pylogix](https://pylogix.com/serverless-image-processing-pipeline-with-aws-ecs-and-lambda-pylogix/)
 - [How Hybrid Apps Enhance User Experience Across Platforms](https://pylogix.com/how-hybrid-apps-enhance-user-experience-across-platforms/)
 - [Impact and Insights — Pylogix](https://pylogix.com/impact-and-insights-pylogix/)
-- [Creating Interactive Digital Experiences with Custom Software](https://pylogix.com/creating-interactive-digital-experiences-with-custom-software/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
