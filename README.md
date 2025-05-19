@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [These are the top 10 schools in Pylogix’s 2025 University Ranking Report](https://pylogix.com/these-are-the-top-10-schools-in-pylogixs-2025-university-ranking-report/)
 - [A quick and practical guide to technical skills screening software](https://pylogix.com/a-quick-and-practical-guide-to-technical-skills-screening-software/)
 - [Prevent and detect cheating in recruiting](https://pylogix.com/prevent-and-detect-cheating-in-recruiting/)
 - [The Basics of Node.js Streams — Pylogix](https://pylogix.com/the-basics-of-node-js-streams-pylogix/)
 - [Why Every Business Needs a Custom Mobile Application](https://pylogix.com/why-every-business-needs-a-custom-mobile-application/)
-- [Navigating the Challenges of Digital Transformation in 2025](https://pylogix.com/navigating-the-challenges-of-digital-transformation-in-2025/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
