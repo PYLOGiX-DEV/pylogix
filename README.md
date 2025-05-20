@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How AI is Changing Motion Design &lpar;And What It Can’t Do Yet&rpar; — Pylogix](https://pylogix.com/how-ai-is-changing-motion-design-and-what-it-cant-do-yet-pylogix/)
 - [Best coding interview tools in 2025: Your ultimate guide for technical interviews](https://pylogix.com/best-coding-interview-tools-in-2025-your-ultimate-guide-for-technical-interviews/)
 - [A beginner’s guide to mastering data visualization with Matplotlib](https://pylogix.com/a-beginners-guide-to-mastering-data-visualization-with-matplotlib/)
 - [CNCF Triggers a Platform Parity Breakthrough for Arm64 and x86 — Pylogix](https://pylogix.com/cncf-triggers-a-platform-parity-breakthrough-for-arm64-and-x86-pylogix/)
 - [These are the top 10 schools in Pylogix’s 2025 University Ranking Report](https://pylogix.com/these-are-the-top-10-schools-in-pylogixs-2025-university-ranking-report/)
-- [A quick and practical guide to technical skills screening software](https://pylogix.com/a-quick-and-practical-guide-to-technical-skills-screening-software/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
