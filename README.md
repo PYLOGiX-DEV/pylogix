@@ -232,10 +232,10 @@ Our team of developers is passionate about software development and is committed
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [The key to AI success: What is prompt engineering and why it will work for you](https://pylogix.com/the-key-to-ai-success-what-is-prompt-engineering-and-why-it-will-work-for-you/)
-- [Building a Network Vulnerability Scanner with Go — Pylogix](https://pylogix.com/building-a-network-vulnerability-scanner-with-go-pylogix-2/)
-- [Building a Network Vulnerability Scanner with Go — Pylogix](https://pylogix.com/building-a-network-vulnerability-scanner-with-go-pylogix/)
 - [Top 21 Developer Newsletters to Subscribe To in 2025 — Pylogix](https://pylogix.com/top-21-developer-newsletters-to-subscribe-to-in-2025-pylogix/)
 - [The Ampere Porting Advisor Tutorial — Pylogix](https://pylogix.com/the-ampere-porting-advisor-tutorial-pylogix/)
+- [How to Build Scalable Web Apps with React JS — Pylogix](https://pylogix.com/how-to-build-scalable-web-apps-with-react-js-pylogix/)
+- [5+ WordPress Plugins for Developers To Use in 2025 — Pylogix](https://pylogix.com/5-wordpress-plugins-for-developers-to-use-in-2025-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
