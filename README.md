@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing: AI-Assisted Coding Assessments and Interviews](https://pylogix.com/introducing-ai-assisted-coding-assessments-and-interviews/)
 - [Prompt engineering salary ranges: is it worth the switch?](https://pylogix.com/prompt-engineering-salary-ranges-is-it-worth-the-switch/)
 - [From basic knowledge to breakthroughs: how prompt engineering certification can boost your career quickly](https://pylogix.com/from-basic-knowledge-to-breakthroughs-how-prompt-engineering-certification-can-boost-your-career-quickly/)
 - [The 10+ Best AI &amp; Pro Web Design Tools for 2025 — Pylogix](https://pylogix.com/the-10-best-ai-pro-web-design-tools-for-2025-pylogix/)
 - [Top 10 Best Free Backlink Checker Tools in 2025 — Pylogix](https://pylogix.com/top-10-best-free-backlink-checker-tools-in-2025-pylogix/)
-- [URx 2025 recap: Reimagining early career recruiting in the age of AI](https://pylogix.com/urx-2025-recap-reimagining-early-career-recruiting-in-the-age-of-ai/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
