@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Do you need an AI prompt engineering course? 10 ways to tell](https://pylogix.com/do-you-need-an-ai-prompt-engineering-course-10-ways-to-tell/)
 - [A New Mental Model for Reactivity, Not Just a New API — Pylogix](https://pylogix.com/a-new-mental-model-for-reactivity-not-just-a-new-api-pylogix/)
 - [DevSkiller alternatives to power better technical assessments](https://pylogix.com/devskiller-alternatives-to-power-better-technical-assessments/)
 - [How to upskill your entire workforce for the age of AI](https://pylogix.com/how-to-upskill-your-entire-workforce-for-the-age-of-ai/)
 - [The Developer’s Shortcut To Your Udemy-like Platform — Pylogix](https://pylogix.com/the-developers-shortcut-to-your-udemy-like-platform-pylogix/)
-- [Why our partnership with Go1 is a game-changer for skills development](https://pylogix.com/why-our-partnership-with-go1-is-a-game-changer-for-skills-development/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
