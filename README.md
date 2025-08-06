@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Upskilling for the future: Pylogix offers free generative AI courses with AWS](https://pylogix.com/upskilling-for-the-future-pylogix-offers-free-generative-ai-courses-with-aws/)
 - [Prompt engineering for ChatGPT: From curiosity to mastery in 5 easy steps](https://pylogix.com/prompt-engineering-for-chatgpt-from-curiosity-to-mastery-in-5-easy-steps/)
 - [Unlock your potential with our latest additions to the Experts Series](https://pylogix.com/unlock-your-potential-with-our-latest-additions-to-the-experts-series/)
 - [Don’t Choose the Wrong Web Team — Here’s Why It Matters — Pylogix](https://pylogix.com/dont-choose-the-wrong-web-team-heres-why-it-matters-pylogix/)
 - [Top Byteboard alternatives for technical hiring in 2025](https://pylogix.com/top-byteboard-alternatives-for-technical-hiring-in-2025/)
-- [Why You Should Choose Droip Over Traditional WordPress Page Builders in 2025 — Pylogix](https://pylogix.com/why-you-should-choose-droip-over-traditional-wordpress-page-builders-in-2025-pylogix/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
