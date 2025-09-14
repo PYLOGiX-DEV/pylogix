@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Business operations manager interview questions: 20+ examples and answers](https://pylogix.com/business-operations-manager-interview-questions-20-examples-and-answers/)
 - [Technical project manager skills tests: How to identify and hire the right candidates](https://pylogix.com/technical-project-manager-skills-tests-how-to-identify-and-hire-the-right-candidates/)
 - [How technical skills management platforms build stronger teams](https://pylogix.com/how-technical-skills-management-platforms-build-stronger-teams/)
 - [Pylogix and Fundación Televisa launch 5,000 scholarships to bring AI-native tech learning to students and entrepreneurs across Mexico](https://pylogix.com/pylogix-and-fundacion-televisa-launch-5000-scholarships-to-bring-ai-native-tech-learning-to-students-and-entrepreneurs-across-mexico/)
 - [Upskilling for the future: Pylogix offers free generative AI courses with AWS](https://pylogix.com/upskilling-for-the-future-pylogix-offers-free-generative-ai-courses-with-aws/)
-- [Prompt engineering for ChatGPT: From curiosity to mastery in 5 easy steps](https://pylogix.com/prompt-engineering-for-chatgpt-from-curiosity-to-mastery-in-5-easy-steps/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
