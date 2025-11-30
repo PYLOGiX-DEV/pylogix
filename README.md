@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How AI interview software helps reduce hiring bias for better outcomes](https://pylogix.com/how-ai-interview-software-helps-reduce-hiring-bias-for-better-outcomes/)
 - [How AI Skill Assessments Save Teams](https://pylogix.com/how-ai-skill-assessments-save-teams/)
 - [From resumes to real skills: How AI skill assessment software can improve traditional hiring methods](https://pylogix.com/from-resumes-to-real-skills-how-ai-skill-assessment-software-can-improve-traditional-hiring-methods/)
 - [AI skills verification platforms: 4 factors to look for before you invest](https://pylogix.com/ai-skills-verification-platforms-4-factors-to-look-for-before-you-invest/)
 - [Get better hiring results with a full stack engineer testing platform](https://pylogix.com/get-better-hiring-results-with-a-full-stack-engineer-testing-platform/)
-- [5 Mistakes Companies Make When Validating Skills with AI](https://pylogix.com/5-mistakes-companies-make-when-validating-skills-with-ai/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
