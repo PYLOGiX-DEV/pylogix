@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [AI Interviewer Integration with Your ATS](https://pylogix.com/ai-interviewer-integration-with-your-ats/)
 - [The benefits of AI interviewer software: ROI you can see from day one](https://pylogix.com/the-benefits-of-ai-interviewer-software-roi-you-can-see-from-day-one/)
 - [Investing in an AI interviewer? Questions to ask before you begin](https://pylogix.com/investing-in-an-ai-interviewer-questions-to-ask-before-you-begin/)
 - [Recruiting your new candidates with an AI interviewer: 5 steps to follow](https://pylogix.com/recruiting-your-new-candidates-with-an-ai-interviewer-5-steps-to-follow/)
 - [AI interviewers for recruiters: What you need to know now for hiring in the new year](https://pylogix.com/ai-interviewers-for-recruiters-what-you-need-to-know-now-for-hiring-in-the-new-year/)
-- [Interviewing with an AI Interviewer](https://pylogix.com/interviewing-with-an-ai-interviewer/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
