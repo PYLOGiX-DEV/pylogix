@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [AI Interviewer Cost: Pricing Breakdown Explained](https://pylogix.com/ai-interviewer-cost-pricing-breakdown-explained/)
 - [AI Interviewer Feedback: Real-Time Candidate Insights](https://pylogix.com/ai-interviewer-feedback-real-time-candidate-insights/)
 - [AI interviewer and AI assessment tools: The benefit of using both](https://pylogix.com/ai-interviewer-and-ai-assessment-tools-the-benefit-of-using-both/)
 - [AI interviewer benchmarks: 5 signs your hiring investment is working](https://pylogix.com/ai-interviewer-benchmarks-5-signs-your-hiring-investment-is-working/)
 - [AI Interviewer Integration with Your ATS](https://pylogix.com/ai-interviewer-integration-with-your-ats/)
-- [The benefits of AI interviewer software: ROI you can see from day one](https://pylogix.com/the-benefits-of-ai-interviewer-software-roi-you-can-see-from-day-one/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
