@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Pre-employment testing platforms: tools for global hiring teams](https://pylogix.com/pre-employment-testing-platforms-tools-for-global-hiring-teams/)
 - [The benefits of an AI interviewer: Multilingual options, improved efficiency, and more](https://pylogix.com/the-benefits-of-an-ai-interviewer-multilingual-options-improved-efficiency-and-more/)
 - [AI Interviewer Video Analysis Explained](https://pylogix.com/ai-interviewer-video-analysis-explained/)
 - [AI hiring software: how skills-based AI improves hiring decisions](https://pylogix.com/ai-hiring-software-how-skills-based-ai-improves-hiring-decisions/)
 - [AI Interviewer Cost: Pricing Breakdown Explained](https://pylogix.com/ai-interviewer-cost-pricing-breakdown-explained/)
-- [AI Interviewer Feedback: Real-Time Candidate Insights](https://pylogix.com/ai-interviewer-feedback-real-time-candidate-insights/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
