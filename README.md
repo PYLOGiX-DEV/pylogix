@@ -233,9 +233,9 @@ Our team of developers is passionate about software development and is committed
 <!-- BLOG-POST-LIST:START -->
 - [The art &lpar;and science&rpar; of AI interviewer adoption: Steps to ultimate success](https://pylogix.com/the-art-and-science-of-ai-interviewer-adoption-steps-to-ultimate-success/)
 - [CoderPad alternatives: smarter options for technical interviews](https://pylogix.com/coderpad-alternatives-smarter-options-for-technical-interviews/)
-- [Best hiring platforms in 2026 that predict job performance](https://pylogix.com/best-hiring-platforms-in-2026-that-predict-job-performance/)
-- [From bias to fairness: How AI interviewer data can help improve a candidate’s experience](https://pylogix.com/from-bias-to-fairness-how-ai-interviewer-data-can-help-improve-a-candidates-experience/)
 - [Pre-employment testing platforms: tools for global hiring teams](https://pylogix.com/pre-employment-testing-platforms-tools-for-global-hiring-teams/)
+- [The benefits of an AI interviewer: Multilingual options, improved efficiency, and more](https://pylogix.com/the-benefits-of-an-ai-interviewer-multilingual-options-improved-efficiency-and-more/)
+- [AI Interviewer Video Analysis Explained](https://pylogix.com/ai-interviewer-video-analysis-explained/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
