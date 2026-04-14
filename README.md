@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [How San José State climbed to #2, and why their deans saw it coming](https://pylogix.com/how-san-jose-state-climbed-to-2-and-why-their-deans-saw-it-coming/)
 - [The art &lpar;and science&rpar; of AI interviewer adoption: Steps to ultimate success](https://pylogix.com/the-art-and-science-of-ai-interviewer-adoption-steps-to-ultimate-success/)
 - [CoderPad alternatives: smarter options for technical interviews](https://pylogix.com/coderpad-alternatives-smarter-options-for-technical-interviews/)
 - [Pre-employment testing platforms: tools for global hiring teams](https://pylogix.com/pre-employment-testing-platforms-tools-for-global-hiring-teams/)
 - [The benefits of an AI interviewer: Multilingual options, improved efficiency, and more](https://pylogix.com/the-benefits-of-an-ai-interviewer-multilingual-options-improved-efficiency-and-more/)
-- [AI Interviewer Video Analysis Explained](https://pylogix.com/ai-interviewer-video-analysis-explained/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
