@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [From bias to fairness: How AI interviewer data can help improve a candidate’s experience](https://pylogix.com/from-bias-to-fairness-how-ai-interviewer-data-can-help-improve-a-candidates-experience/)
 - [AI assessment platforms vs. traditional testing](https://pylogix.com/ai-assessment-platforms-vs-traditional-testing/)
 - [What are interview platforms? Types, features, and how to choose](https://pylogix.com/what-are-interview-platforms-types-features-and-how-to-choose/)
 - [Pylogix Integrations: Greenhouse, Lever, and ATS Tools](https://pylogix.com/pylogix-integrations-greenhouse-lever-and-ats-tools/)
 - [How San José State climbed to #2, and why their deans saw it coming](https://pylogix.com/how-san-jose-state-climbed-to-2-and-why-their-deans-saw-it-coming/)
-- [The art &lpar;and science&rpar; of AI interviewer adoption: Steps to ultimate success](https://pylogix.com/the-art-and-science-of-ai-interviewer-adoption-steps-to-ultimate-success/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
