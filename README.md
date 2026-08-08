@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [One-way vs live interviews: choosing video interviewing platforms](https://pylogix.com/one-way-vs-live-interviews-choosing-video-interviewing-platforms/)
 - [HireVue Alternatives &amp; Competitors: Best Platforms for 2026](https://pylogix.com/hirevue-alternatives-competitors-best-platforms-for-2026/)
 - [The Pylogix MCP: Skills Intelligence, Connected to Any AI Tool](https://pylogix.com/the-pylogix-mcp-skills-intelligence-connected-to-any-ai-tool/)
 - [From bias to fairness: How AI interviewer data can help improve a candidate’s experience](https://pylogix.com/from-bias-to-fairness-how-ai-interviewer-data-can-help-improve-a-candidates-experience/)
 - [AI assessment platforms vs. traditional testing](https://pylogix.com/ai-assessment-platforms-vs-traditional-testing/)
-- [What are interview platforms? Types, features, and how to choose](https://pylogix.com/what-are-interview-platforms-types-features-and-how-to-choose/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
