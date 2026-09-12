@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Best Skills-Based Hiring Platforms for Scaling Hiring &lpar;2026&rpar;](https://pylogix.com/best-skills-based-hiring-platforms-for-scaling-hiring-2026/)
 - [Modern Hire Alternatives &amp; Competitors: Best Platforms for 2026](https://pylogix.com/modern-hire-alternatives-competitors-best-platforms-for-2026/)
 - [AI interview alternatives for modern hiring teams](https://pylogix.com/ai-interview-alternatives-for-modern-hiring-teams/)
 - [How a Recent Grad Built a 660+ Day Streak on Pylogix Learn](https://pylogix.com/how-a-recent-grad-built-a-660-day-streak-on-pylogix-learn/)
 - [iMocha Alternatives &amp; Competitors: Best Platforms for 2026](https://pylogix.com/imocha-alternatives-competitors-best-platforms-for-2026/)
-- [One-way vs live interviews: choosing video interviewing platforms](https://pylogix.com/one-way-vs-live-interviews-choosing-video-interviewing-platforms/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
