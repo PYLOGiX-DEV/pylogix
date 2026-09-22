@@ -231,11 +231,11 @@ Our team of developers is passionate about software development and is committed
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Data readiness: what your data needs before any ML project](https://pylogix.com/data-readiness-for-machine-learning/)
-- [Security and compliance to specify before development starts](https://pylogix.com/software-security-requirements/)
-- [Flutter or native: choosing a mobile stack against your budget](https://pylogix.com/flutter-vs-native-app-development/)
-- [Shopify Plus or headless commerce: choosing for your catalog and your team](https://pylogix.com/shopify-plus-vs-headless-commerce/)
-- [Replatforming from Magento or WooCommerce: what breaks and what it costs](https://pylogix.com/magento-to-shopify-migration-cost/)
+- [What to do when a development relationship is failing](https://pylogix.com/failing-software-development-relationship/)
+- [Why connecting two systems costs more than building one](https://pylogix.com/software-integration-project-cost/)
+- [Accessibility requirements to specify before you build](https://pylogix.com/web-accessibility-requirements/)
+- [AI agents for internal operations: practical, unglamorous use cases](https://pylogix.com/ai-agents-internal-operations/)
+- [From pilot to production: why most AI projects stall](https://pylogix.com/ai-pilot-to-production/)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
